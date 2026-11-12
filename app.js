@@ -223,5 +223,17 @@
     download("jobs.csv", csv + "\n", "text/csv");
   });
 
+  async function loadActivity() {
+    try {
+      const res = await fetch("data/activity.json", { cache: "no-store" });
+      const items = ((await res.json()).activity || []).slice().reverse();
+      $("#activity").innerHTML = items.map((a) => `
+        <li><time>${fmtDate(a.date)}</time><div><b>${esc(a.action)}</b>${a.company ? ` · ${esc(a.company)}` : ""}<p>${esc(a.detail || "")}</p></div></li>`).join("");
+    } catch (e) {
+      console.error("Could not load data/activity.json", e);
+    }
+  }
+
   load();
+  loadActivity();
 })();

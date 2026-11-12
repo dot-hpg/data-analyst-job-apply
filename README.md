@@ -27,6 +27,14 @@ A small static website that tracks every data analyst job found and applied to d
 | `date_found`, `date_applied` | `YYYY-MM-DD` |
 | `salary`, `source`, `skills`, `why_fit`, `notes` | Extra detail |
 
+## Deploying to Vercel
+
+1. Go to https://vercel.com/new and import `dot-hpg/data-analyst-job-apply`.
+2. Framework preset: **Other**. Leave build command and output directory empty (it is a static site).
+3. Deploy. Every push to `main` (for example a new `data/jobs.json`) redeploys automatically.
+
+`data/activity.json` holds the activity log shown at the bottom of the page.
+
 ## Deploying to GitHub Pages
 
 The workflow in `.github/workflows/pages.yml` deploys the site on every push to `main`.

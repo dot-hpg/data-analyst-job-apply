@@ -1,0 +1,29 @@
+{
+  "activity": [
+    {
+      "date": "2026-11-11",
+      "action": "Built tracker website",
+      "detail": "Created the tracker site and GitHub Pages / Vercel-ready setup."
+    },
+    {
+      "date": "2026-11-11",
+      "action": "Searched job boards",
+      "detail": "Scanned Remote Rocketship, Himalayas, Cutshort, Built In, Weekday, Remotive, Jobicy, WeWorkRemotely and Greenhouse boards; collected ~45 remote-India and Hyderabad openings."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Read resume v3",
+      "detail": "Matched against data-analyst/v3 resume (SQL, Python, Power BI, Tableau, stats, 2+ yrs)."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Verified job descriptions",
+      "detail": "Opened ~25 postings to check they are open, remote from India, and the experience ask; dropped on-site, 5+ yr, and off-profile roles."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Picked top 10",
+      "detail": "Ranked by fit and interview odds; status set to 'Ready to apply'. Backups and skipped roles kept with reasons."
+    }
+  ]
+}
