@@ -680,6 +680,52 @@
       "why_fit": "Hyderabad hybrid BI/analytics role. Asks 3–4 yrs, a stretch. LinkedIn marks you as a top applicant.",
       "notes": "External apply (company site, not Easy Apply). Asks 3–4 yrs. Hyderabad hybrid.",
       "cover_note": "Hi Indium team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Senior Data Analyst role in Hyderabad fits my background in SQL, BI and dashboard development.\n\nAt Ivue I build SQL/Python pipelines and Power BI KPI dashboards with stakeholders, define metric logic and add validation checks so reports always match the source. I've also built 7 Power BI and Tableau dashboards and done statistical testing and forecasting in Python.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+    },
+    {
+      "id": "linkedin-capgemini-fbs-data-analyst-ii",
+      "company": "Capgemini",
+      "role": "FBS Data Analyst II",
+      "location": "Hyderabad (Hybrid)",
+      "work_type": "Hybrid (Hyderabad)",
+      "link": "https://www.linkedin.com/jobs/view/4489419709/",
+      "status": "Applied",
+      "fit_score": 72,
+      "date_found": "2026-11-12",
+      "date_applied": "2026-11-12",
+      "salary": "",
+      "source": "LinkedIn",
+      "skills": [
+        "SQL",
+        "Snowflake",
+        "DBT",
+        "Python"
+      ],
+      "why_fit": "Hyderabad hybrid data analyst role at a large employer; SQL/Python fit, Snowflake/DBT are a stretch (asks 4–6 yrs on those).",
+      "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~16:58 UTC). LinkedIn marked you a top applicant.",
+      "cover_note": "Hi Capgemini team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your FBS Data Analyst II role in Hyderabad fits my SQL and Python background, and I am keen to deepen my work on modern cloud stacks like Snowflake and DBT.\n\nAt Ivue I build SQL/Python pipelines and Power BI KPI dashboards with validation checks so reports always match the source, and I have used BigQuery on real projects.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+    },
+    {
+      "id": "linkedin-akronintel-business-data-analyst",
+      "company": "Akron Intel",
+      "role": "Business Data Analyst",
+      "location": "Hyderabad (Hybrid)",
+      "work_type": "Hybrid (Hyderabad)",
+      "link": "https://www.linkedin.com/jobs/view/4485844860/",
+      "status": "Applied",
+      "fit_score": 74,
+      "date_found": "2026-11-12",
+      "date_applied": "2026-11-12",
+      "salary": "",
+      "source": "LinkedIn",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Business analysis",
+        "Reporting"
+      ],
+      "why_fit": "Hyderabad hybrid business data analyst role; SQL + reporting + stakeholder work matches Ivue.",
+      "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:02 UTC). Answered Yes to commuting and hybrid.",
+      "cover_note": "Hi Akron Intel team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Business Data Analyst role in Hyderabad matches my day-to-day work: turning business questions into SQL analysis, reports and dashboards.\n\nAt Ivue I work with stakeholders to define metrics, build the SQL/Python pipelines behind them and present findings in Power BI, with validation checks so the numbers are always trusted.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
     }
   ]
 }
