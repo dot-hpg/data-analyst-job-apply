@@ -125,6 +125,7 @@
           </div>
           ${j.why_fit ? `<p class="why">${esc(j.why_fit)}</p>` : ""}
           ${j.notes ? `<p class="notes">${esc(j.notes)}</p>` : ""}
+          ${j.cover_note ? `<details class="cover"><summary>Cover note</summary><pre>${esc(j.cover_note)}</pre><button class="btn" type="button" data-copy="${esc(j.id)}">Copy</button></details>` : ""}
           ${(j.skills || []).length ? `<div class="tags">${j.skills.map((s) => `<span class="tag">${esc(s)}</span>`).join("")}</div>` : ""}
         </div>
         <div class="side">
@@ -182,6 +183,13 @@
   });
 
   document.addEventListener("click", (e) => {
+    const cid = e.target.dataset && e.target.dataset.copy;
+    if (cid) {
+      const text = (jobs.find((j) => j.id === cid) || {}).cover_note || "";
+      const done = () => { e.target.textContent = "Copied"; setTimeout(() => (e.target.textContent = "Copy"), 1500); };
+      if (navigator.clipboard) navigator.clipboard.writeText(text).then(done, () => {}); 
+      return;
+    }
     const id = e.target.dataset && e.target.dataset.edit;
     if (id) openEditor(jobs.find((j) => j.id === id));
   });
@@ -217,7 +225,7 @@
   }
   $("#exportJson").addEventListener("click", () => download("jobs.json", JSON.stringify({ jobs }, null, 2) + "\n", "application/json"));
   $("#exportCsv").addEventListener("click", () => {
-    const cols = ["company", "role", "location", "work_type", "link", "status", "fit_score", "date_found", "date_applied", "salary", "source", "skills", "why_fit", "notes"];
+    const cols = ["company", "role", "location", "work_type", "link", "status", "fit_score", "date_found", "date_applied", "salary", "source", "skills", "why_fit", "notes", "cover_note"];
     const cell = (v) => `"${String(Array.isArray(v) ? v.join("; ") : v ?? "").replace(/"/g, '""')}"`;
     const csv = [cols.join(","), ...jobs.map((j) => cols.map((c) => cell(j[c])).join(","))].join("\n");
     download("jobs.csv", csv + "\n", "text/csv");

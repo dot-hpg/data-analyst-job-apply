@@ -24,6 +24,16 @@
       "date": "2026-11-12",
       "action": "Picked top 10",
       "detail": "Ranked by fit and interview odds; status set to 'Ready to apply'. Backups and skipped roles kept with reasons."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Re-verified apply links",
+      "detail": "Checked each top-10 job at the employer's own site. Handshake (US-hours senior role) and Ruder Finn (no live posting) dropped; Verizon and Gainsight (Hyderabad) added; Kard moved to its live Wellfound posting, Peakflo to YC Work at a Startup."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Wrote tailored cover notes",
+      "detail": "One short cover note per top-10 job, shown on each card with a Copy button."
     }
   ]
 }

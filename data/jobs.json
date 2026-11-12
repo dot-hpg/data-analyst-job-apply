@@ -1,6 +1,101 @@
 {
   "jobs": [
     {
+      "id": "kard-data-support-analyst-india",
+      "company": "Kard",
+      "role": "Data Support Analyst (India)",
+      "location": "Remote – India only",
+      "work_type": "Remote (India)",
+      "link": "https://wellfound.com/jobs/4589316-data-support-analyst-india",
+      "status": "Ready to apply",
+      "fit_score": 88,
+      "date_found": "2026-11-11",
+      "date_applied": "",
+      "salary": "$2,500–3,500 / month",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Spreadsheets",
+        "Databricks",
+        "Data validation",
+        "Stakeholder communication"
+      ],
+      "why_fit": "Explicitly hires India residents for a fully remote role. Strong SQL + validation/reconciliation checks is exactly your Ivue work. Asks 3–6 yrs.",
+      "notes": "Confirmed open on Wellfound (posted ~Nov 9). India residents only. Apply with a Wellfound account (Google sign-in works).",
+      "cover_note": "Hi Kard team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Support Analyst role stood out because the core of it, strong SQL plus validating and reconciling data so every report matches, is exactly what I do daily.\n\nAt Ivue I added validation and reconciliation checks across pipelines so source data, reports and dashboards always agreed, and I replaced manual spreadsheet pulls with automated SQL/Python jobs. I'm fluent in joins, CTEs and window functions, comfortable in spreadsheets (pivots, XLOOKUP), and I explain findings clearly to non-technical teams. I'm also quick to pick up Databricks-style tooling.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+    },
+    {
+      "id": "doordash-labs-data-analyst",
+      "company": "DoorDash India",
+      "role": "Data Analyst, Labs",
+      "location": "Hyderabad, preferred or remote",
+      "work_type": "Remote (India)",
+      "link": "https://job-boards.greenhouse.io/doordashindia/jobs/6661816",
+      "status": "Ready to apply",
+      "fit_score": 80,
+      "date_found": "2026-11-11",
+      "date_applied": "",
+      "salary": "",
+      "source": "Greenhouse",
+      "skills": [
+        "SQL",
+        "Python",
+        "Snowflake / Redshift / Trino",
+        "BI tools (Sigma)"
+      ],
+      "why_fit": "Hyderabad-preferred or remote, so your location is a plus. SQL-expert + Python ETL + BI matches; asks 3–6 yrs.",
+      "notes": "Confirmed open (Greenhouse, no account). Hyderabad preferred or remote: your location helps. Asks 3–6 yrs; form asks LinkedIn, India work eligibility, city.",
+      "cover_note": "Hi DoorDash Labs team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Being Hyderabad-based, your Labs Data Analyst role is a natural fit, and SQL-heavy product analytics is where I do my best work.\n\nI build SQL pipelines with CTEs and window functions, Python ETL, and BI dashboards that product and business teams use for KPIs. In case studies I've run A/B-style hypothesis tests, cohort retention and regression (R² 0.93 on 10K hourly demand records). I'd love to support Labs PMs with fast, trustworthy analysis.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+    },
+    {
+      "id": "integrate-data-analyst",
+      "company": "Integrate",
+      "role": "Data Analyst (Technical Delivery)",
+      "location": "Remote – India (US shift 6 PM–3 AM IST)",
+      "work_type": "Remote (India)",
+      "link": "https://ats.rippling.com/integratecom-inc/jobs/5faa4cc6-9512-468b-9171-fab262144260",
+      "status": "Ready to apply",
+      "fit_score": 80,
+      "date_found": "2026-11-11",
+      "date_applied": "",
+      "salary": "",
+      "source": "Remote Rocketship",
+      "skills": [
+        "SQL",
+        "Python",
+        "Spark",
+        "BigQuery",
+        "Power BI / Looker / Tableau"
+      ],
+      "why_fit": "1–5 yrs band fits you squarely; SQL is mandatory and BigQuery is a plus (your Target Brazil BigQuery case study).",
+      "notes": "Confirmed open (Rippling). US shift 6 PM–3 AM IST; notice ≤30 days; posting says 'Engineering graduates only' (you have B.Arch + M.S. CS in progress), so mention the M.S. CS.",
+      "cover_note": "Hi Integrate team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role fits my 1–5 year profile well: SQL is my strongest skill, and I've used BigQuery on real projects.\n\nI wrote 30 BigQuery SQL queries over 99K orders in my Target Brazil case study, and at Ivue I build SQL/Python pipelines and document metric definitions with stakeholders. I'm comfortable reading ERDs and lineage docs, working with Git, and I'm fine with the US shift. I'm currently completing an M.S. in Computer Science (AI & ML).\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+    },
+    {
+      "id": "peakflo-data-analyst-remote-india",
+      "company": "Peakflo",
+      "role": "Data Analyst (Remote, India)",
+      "location": "Remote – India",
+      "work_type": "Remote (India)",
+      "link": "https://www.workatastartup.com/jobs/86654",
+      "status": "Ready to apply",
+      "fit_score": 86,
+      "date_found": "2026-11-11",
+      "date_applied": "",
+      "salary": "₹7–10 LPA",
+      "source": "YC Work at a Startup",
+      "skills": [
+        "Python",
+        "SQL",
+        "Git",
+        "AI agents / MCP",
+        "Automation"
+      ],
+      "why_fit": "Asks ~1 yr, so you exceed the bar. Python + SQL automation is your daily work, and your RAG / agentic-AI repos cover the 'AI agents with MCP' ask most analysts lack.",
+      "notes": "Listed open on YC Work at a Startup (needs a free YC account). Not on Peakflo's YC jobs page, so it may be paused; apply anyway, it takes 2 minutes. Pay 7–10 LPA, asks 1+ yrs.",
+      "cover_note": "Hi Peakflo team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role caught my eye because it mixes Python/SQL automation with AI agents, which is exactly where I've been building.\n\nAt Ivue I automate data pulls and reporting with SQL and Python. Outside work I've built a RAG hybrid-search project and an agentic-AI app (github.com/dot-hpg), so working with Cursor agents and MCP servers is familiar territory. I'm comfortable with Git and Docker, and I like turning messy ops data into automated dashboards and root-cause analysis.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+    },
+    {
       "id": "photon-data-analyst-offshore",
       "company": "Photon",
       "role": "Data Analyst | Offshore",
@@ -8,7 +103,7 @@
       "work_type": "Remote (India)",
       "link": "https://builtin.com/job/data-analyst-offshore/11441565",
       "status": "Ready to apply",
-      "fit_score": 90,
+      "fit_score": 82,
       "date_found": "2026-11-11",
       "date_applied": "",
       "salary": "",
@@ -22,53 +117,8 @@
         "ETL"
       ],
       "why_fit": "Near-exact stack match: SQL + Excel + Power BI/Tableau core, Python and stats as pluses. Asks 3+ yrs; your 2+ yrs of pipeline and dashboard work plus 8 case studies make a credible case.",
-      "notes": "Posted 2026-11-11. Apply via Built In (needs a Built In login). Lead with the Power BI KPI dashboards and the SQL/Python pipelines at Ivue."
-    },
-    {
-      "id": "peakflo-data-analyst-remote-india",
-      "company": "Peakflo",
-      "role": "Data Analyst (Remote, India)",
-      "location": "Remote – India",
-      "work_type": "Remote (India)",
-      "link": "https://builtin.com/job/data-analyst-remote-india/9920702",
-      "status": "Ready to apply",
-      "fit_score": 88,
-      "date_found": "2026-11-11",
-      "date_applied": "",
-      "salary": "₹7–10 LPA",
-      "source": "Built In",
-      "skills": [
-        "Python",
-        "SQL",
-        "Git",
-        "AI agents / MCP",
-        "Automation"
-      ],
-      "why_fit": "Asks ~1 yr, so you exceed the bar. Python + SQL automation is your daily work, and your RAG / agentic-AI repos cover the 'AI agents with MCP' ask most analysts lack.",
-      "notes": "Reposted 2026-11-06. Pay 7–10 LPA. Apply via Built In. Mention github.com/dot-hpg/rag-hybrid-search and agentic-ai-app."
-    },
-    {
-      "id": "kard-data-support-analyst-india",
-      "company": "Kard",
-      "role": "Data Support Analyst (India)",
-      "location": "Remote – India only",
-      "work_type": "Remote (India)",
-      "link": "https://builtinhyderabad.in/job/data-support-analyst-india/10676434",
-      "status": "Ready to apply",
-      "fit_score": 84,
-      "date_found": "2026-11-11",
-      "date_applied": "",
-      "salary": "$2,500–3,500 / month",
-      "source": "Built In",
-      "skills": [
-        "SQL",
-        "Spreadsheets",
-        "Databricks",
-        "Data validation",
-        "Stakeholder communication"
-      ],
-      "why_fit": "Explicitly hires India residents for a fully remote role. Strong SQL + validation/reconciliation checks is exactly your Ivue work. Asks 3–6 yrs.",
-      "notes": "US-dollar pay. Apply via Built In Hyderabad. Highlight the validation and reconciliation checks you built."
+      "notes": "Built In shows it posted Nov 11, but older copies of this req are closed, so open the link and check it's live. Apply through Built In (free login).",
+      "cover_note": "Hi Photon team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst (Offshore) role matches my toolkit almost one-to-one: SQL, Excel, Power BI/Tableau, with Python and statistics on top.\n\nAt Ivue I design Power BI dashboards with stakeholders, define metric logic and refresh schedules, and build the SQL/Python pipelines behind them. I've also built 7 Power BI and Tableau dashboards (supplier SLA, audit efficiency) and done forecasting and statistical testing in Python.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
     },
     {
       "id": "weekday-power-bi-business-analyst",
@@ -78,7 +128,7 @@
       "work_type": "Remote (India)",
       "link": "https://apply.workable.com/weekday-1/j/4902295E86",
       "status": "Ready to apply",
-      "fit_score": 83,
+      "fit_score": 78,
       "date_found": "2026-11-11",
       "date_applied": "",
       "salary": "",
@@ -89,77 +139,8 @@
         "SQL"
       ],
       "why_fit": "Power BI + DAX + SQL is the heart of your resume (7 BI dashboards, KPI reporting at Ivue). Mid-level tag fits 2+ yrs.",
-      "notes": "Posted 2026-10-29. Workable form, no account needed."
-    },
-    {
-      "id": "integrate-data-analyst",
-      "company": "Integrate",
-      "role": "Data Analyst (Technical Delivery)",
-      "location": "Remote – India (US shift 6 PM–3 AM IST)",
-      "work_type": "Remote (India)",
-      "link": "https://ats.rippling.com/integratecom-inc/jobs/5faa4cc6-9512-468b-9171-fab262144260",
-      "status": "Ready to apply",
-      "fit_score": 78,
-      "date_found": "2026-11-11",
-      "date_applied": "",
-      "salary": "",
-      "source": "Remote Rocketship",
-      "skills": [
-        "SQL",
-        "Python",
-        "Spark",
-        "BigQuery",
-        "Power BI / Looker / Tableau"
-      ],
-      "why_fit": "1–5 yrs band fits you squarely; SQL is mandatory and BigQuery is a plus (your Target Brazil BigQuery case study).",
-      "notes": "Risks: US night shift, notice ≤30 days, and 'Engineering graduates only' (you have B.Arch + M.S. CS in progress). Rippling form, no account."
-    },
-    {
-      "id": "handshake-data-analyst-finance-payments",
-      "company": "Handshake",
-      "role": "Data Analyst, Finance and Payments",
-      "location": "Remote – India (US hours overlap)",
-      "work_type": "Remote (India)",
-      "link": "https://builtin.com/job/data-analyst-finance-and-payments/11031758",
-      "status": "Ready to apply",
-      "fit_score": 76,
-      "date_found": "2026-11-11",
-      "date_applied": "",
-      "salary": "",
-      "source": "Built In",
-      "skills": [
-        "SQL",
-        "Python",
-        "Looker",
-        "Tableau",
-        "Power BI",
-        "Snowflake",
-        "BigQuery"
-      ],
-      "why_fit": "Advanced SQL + Python + dashboards + reconciliation is a direct match. Asks 3–6+ yrs, so it's a stretch, but a high-quality US company hiring in India.",
-      "notes": "Posted ~2026-10-16. Needs overlap with US hours. Apply via Built In."
-    },
-    {
-      "id": "doordash-labs-data-analyst",
-      "company": "DoorDash India",
-      "role": "Data Analyst, Labs",
-      "location": "Hyderabad, preferred or remote",
-      "work_type": "Remote (India)",
-      "link": "https://job-boards.greenhouse.io/doordashindia/jobs/6661816",
-      "status": "Ready to apply",
-      "fit_score": 75,
-      "date_found": "2026-11-11",
-      "date_applied": "",
-      "salary": "",
-      "source": "Greenhouse",
-      "skills": [
-        "SQL",
-        "Python",
-        "Snowflake / Redshift / Trino",
-        "BI tools (Sigma)"
-      ],
-      "why_fit": "Hyderabad-preferred or remote, so your location is a plus. SQL-expert + Python ETL + BI matches; asks 3–6 yrs.",
-      "notes": "Greenhouse form, no account. Asks LinkedIn, India work eligibility, city."
+      "notes": "Couldn't confirm it's still open from here. Open the Workable link: if it shows the form, apply (no account).",
+      "cover_note": "Hi Weekday team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Power BI is the centre of my work, so your Power BI Business Analyst role is a strong match.\n\nAt Ivue I design Power BI dashboards end to end (DAX measures, Power Query, data modelling, refresh schedules) and agree metric definitions with stakeholders. I've also built 7 Power BI/Tableau dashboards, including Supplier Performance & SLA tracking.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
     },
     {
       "id": "pontoon-data-analyst",
@@ -169,7 +150,7 @@
       "work_type": "Remote (India)",
       "link": "https://builtinhyderabad.in/job/data-analyst/9751044",
       "status": "Ready to apply",
-      "fit_score": 72,
+      "fit_score": 74,
       "date_found": "2026-11-11",
       "date_applied": "",
       "salary": "",
@@ -181,7 +162,54 @@
         "Tableau"
       ],
       "why_fit": "SQL + Python + statistics + Tableau is your exact toolkit (hypothesis testing, regression case studies). Asks 4–6 yrs.",
-      "notes": "Reposted ~2026-10-26. Apply via Built In Hyderabad."
+      "notes": "Appears open on Built In (reposted Oct 26). Asks 4–6 yrs. Apply through Built In.",
+      "cover_note": "Hi Pontoon team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role lines up with my core stack: SQL, Python, statistics and Tableau.\n\nI've applied t-tests, ANOVA, chi-square and regression on real datasets (Yulu, Walmart 550K transactions), built Tableau and Power BI dashboards, and run SQL/Python pipelines in production at Ivue. I'm comfortable with Git and writing clean, tested analysis code.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+    },
+    {
+      "id": "verizon-analyst-data-reporting",
+      "company": "Verizon",
+      "role": "Analyst - Data Reporting & Analysis",
+      "location": "Hyderabad or Chennai (on-site)",
+      "work_type": "On-site",
+      "link": "https://jobs.weekday.works/verizon-analyst-data-rptg-%26-analysis-0fhf",
+      "status": "Ready to apply",
+      "fit_score": 72,
+      "date_found": "2026-11-11",
+      "date_applied": "",
+      "salary": "",
+      "source": "Weekday",
+      "skills": [
+        "SQL",
+        "Looker",
+        "Adobe Analytics"
+      ],
+      "why_fit": "1+ yrs, SQL + dashboards: high interview odds. Hyderabad fallback, not remote.",
+      "notes": "Hyderabad/Chennai office role, not remote, but asks just 1+ yrs so interview odds are high. If the link doesn't show an Apply button, search 'Analyst-Data Rptg & Analysis' on Verizon's careers site.",
+      "cover_note": "Hi Verizon team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Reporting & Analysis role in Hyderabad fits my background in SQL reporting and dashboard development.\n\nI build SQL pipelines and KPI dashboards at Ivue, with validation checks so reports always match source data. I'm comfortable learning Looker and web analytics tools like Adobe Analytics quickly.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+    },
+    {
+      "id": "gainsight-senior-atlas-data-analyst",
+      "company": "Gainsight",
+      "role": "Senior Atlas Data Analyst",
+      "location": "Hyderabad (hybrid)",
+      "work_type": "Hybrid",
+      "link": "https://jobs.ashbyhq.com/gainsight/69670529-c530-42a4-8046-7af91bdf5e98",
+      "status": "Ready to apply",
+      "fit_score": 71,
+      "date_found": "2026-11-12",
+      "date_applied": "",
+      "salary": "",
+      "source": "Ashby",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Alteryx",
+        "dbt",
+        "Commercial analytics"
+      ],
+      "why_fit": "Hyderabad hybrid; SQL + Excel + commercial analytics fits. Asks 3–7 yrs.",
+      "notes": "Ashby page live. Hybrid in Hyderabad (fallback, not remote). Ashby form, no account.",
+      "cover_note": "Hi Gainsight team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Senior Atlas Data Analyst role in Hyderabad fits my commercial analytics experience.\n\nI've built RFM segmentation and CLV models to find high-value customer groups, Power BI KPI dashboards for business teams, and SQL/Python pipelines with validation checks. I'm comfortable in advanced Excel and keen to work with dbt and Alteryx.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
     },
     {
       "id": "lg-ads-senior-analyst-bi",
@@ -203,7 +231,33 @@
         "Python / PySpark"
       ],
       "why_fit": "Tableau + SQL + Python matches; strong ad-tech brand. Asks 4+ yrs, so a stretch.",
-      "notes": "Posted 2026-11-10. Ashby form, no account."
+      "notes": "Ashby page is live (posted ~Nov 10). Asks 4+ yrs, so a stretch. Ashby form, no account.",
+      "cover_note": "Hi LG Ad Solutions team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Senior BI Analyst role appeals to me because it's Tableau and SQL first, serving Sales, Product and Finance.\n\nI've built Tableau dashboards with LOD expressions and parameters, Power BI KPI reports for business units at Ivue, and SQL pipelines on BigQuery and PostgreSQL. I'm comfortable with Python and picking up Databricks/PySpark.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+    },
+    {
+      "id": "handshake-data-analyst-finance-payments",
+      "company": "Handshake",
+      "role": "Data Analyst, Finance and Payments",
+      "location": "Remote – India (US hours overlap)",
+      "work_type": "Remote (India)",
+      "link": "https://builtin.com/job/data-analyst-finance-and-payments/11031758",
+      "status": "Skipped",
+      "fit_score": null,
+      "date_found": "2026-11-11",
+      "date_applied": "",
+      "salary": "",
+      "source": "Built In",
+      "skills": [
+        "SQL",
+        "Python",
+        "Looker",
+        "Tableau",
+        "Power BI",
+        "Snowflake",
+        "BigQuery"
+      ],
+      "why_fit": "Advanced SQL + Python + dashboards + reconciliation is a direct match. Asks 3–6+ yrs, so it's a stretch, but a high-quality US company hiring in India.",
+      "notes": "Employer posting (Ashby) is a Senior role tied to San Francisco / US hours, not an India-remote role."
     },
     {
       "id": "ruder-finn-data-analyst-iii",
@@ -212,8 +266,8 @@
       "location": "India – Remote",
       "work_type": "Remote (India)",
       "link": "https://jobs.weekday.works/data-analyst-iii-at-ruder-finn-india-wkdyc3qd50",
-      "status": "Ready to apply",
-      "fit_score": 66,
+      "status": "Skipped",
+      "fit_score": null,
       "date_found": "2026-11-12",
       "date_applied": "",
       "salary": "",
@@ -225,7 +279,7 @@
         "Healthcare"
       ],
       "why_fit": "Remote India; data modelling + visualization fits. Asks 4+ yrs and healthcare/web analytics, so lower odds.",
-      "notes": "Posted ~2026-11-07. Employer apply link to confirm."
+      "notes": "Could not confirm an open India posting; the Built In copy was removed in May 2026."
     },
     {
       "id": "bcd-travel-business-analyst",
@@ -246,27 +300,6 @@
       ],
       "why_fit": "Data-heavy BA role, remote India. Backup if a top-10 role closes.",
       "notes": "Years not stated."
-    },
-    {
-      "id": "verizon-analyst-data-reporting",
-      "company": "Verizon",
-      "role": "Analyst - Data Reporting & Analysis",
-      "location": "Hyderabad or Chennai (on-site)",
-      "work_type": "On-site",
-      "link": "https://jobs.weekday.works/verizon-analyst-data-rptg-%26-analysis-0fhf",
-      "status": "Shortlisted",
-      "fit_score": 64,
-      "date_found": "2026-11-11",
-      "date_applied": "",
-      "salary": "",
-      "source": "Weekday",
-      "skills": [
-        "SQL",
-        "Looker",
-        "Adobe Analytics"
-      ],
-      "why_fit": "1+ yrs, SQL + dashboards: high interview odds. Hyderabad fallback, not remote.",
-      "notes": ""
     },
     {
       "id": "esyconnect-data-analyst",

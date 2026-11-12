@@ -26,6 +26,7 @@ A small static website that tracks every data analyst job found and applied to d
 | `fit_score` | 0–100 match against the resume |
 | `date_found`, `date_applied` | `YYYY-MM-DD` |
 | `salary`, `source`, `skills`, `why_fit`, `notes` | Extra detail |
+| `cover_note` | Tailored cover note, shown with a Copy button |
 
 ## Deploying to Vercel
 
