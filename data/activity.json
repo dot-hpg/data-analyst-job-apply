@@ -39,6 +39,11 @@
       "date": "2026-11-12",
       "action": "Started applying from your PC",
       "detail": "Checked all 10 forms. DoorDash and Peakflo closed. Kard, Photon, Pontoon and Verizon need your account sign-in; Integrate needs your Aadhaar details. Weekday, Gainsight and LG Ad Solutions ready to submit once you confirm salary and notice."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied to Kard; 3 more forms filled",
+      "detail": "Kard submitted via Wellfound. Pontoon filled (needs the Cloudflare check). Weekday, Gainsight and LG filled except salary/resume fields. Photon needs your home address; Verizon blocks automated browsing."
     }
   ]
 }
