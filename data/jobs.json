@@ -1028,6 +1028,30 @@
       "why_fit": "Hyderabad senior data analyst role.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:24 UTC). Hyderabad senior data analyst role.",
       "cover_note": "Hi SMC Squared India team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Senior Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+    },
+    {
+      "id": "wellfound-raushang4-data-analyst-d2c",
+      "company": "Raushang4 Technology",
+      "role": "Data Analyst (D2C)",
+      "location": "India (Remote)",
+      "work_type": "Remote (India)",
+      "link": "https://wellfound.com/jobs/4897527-data-analyst-d2c",
+      "status": "Applied",
+      "fit_score": 88,
+      "date_found": "2026-11-12",
+      "date_applied": "2026-11-12",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI / Looker Studio",
+        "E-commerce metrics",
+        "BigQuery"
+      ],
+      "why_fit": "Remote India D2C analytics (ROAS, CAC, LTV, repeat rate): matches your RFM/CLV, cohort and BigQuery e-commerce work. Asks 1+ yrs.",
+      "notes": "Applied via Wellfound on 12 Nov 2026 with a tailored note. Hiring contact: Raushan Kumar (Founder).",
+      "cover_note": "Hi Raushang4 Technology team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst (D2C) role is a close match: turning Shopify, ads and logistics data into ROAS, CAC, LTV and repeat-rate decisions is the customer analytics I do.\n\nI have built RFM segmentation, CLV models and cohort retention analysis, and written 30 BigQuery SQL queries over 99K e-commerce orders; at Ivue I automate recurring reports and Power BI dashboards with validation checks.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
     }
   ]
 }
