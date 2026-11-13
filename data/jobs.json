@@ -6779,6 +6779,29 @@
           "why_fit": "",
           "notes": "Applied 2026-11-14 via Greenhouse form; 'Thank you for applying - your application has been received' confirmation page (8932703002/confirmation) seen. Answers: RTW-India Yes, currently-Mumbai No (truthful; no relocation question on form), remuneration 1100000 INR, availability '15-day notice period; joining date to be agreed', Degree Bachelor's Degree, Discipline Architecture (literal options), no references supplied (attestation scope limited to provided references; resume verified reference-free).",
           "experience_required": "2+ years"
+    },
+    {
+          "id": "greenhouse-psg-data-analyst",
+          "company": "Pearce Services Global (PSG)",
+          "role": "Data Analyst",
+          "location": "Hyderabad",
+          "work_type": "On-site",
+          "link": "https://job-boards.greenhouse.io/psg/jobs/5366802008",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-14",
+          "date_applied": "2026-11-14",
+          "salary": "Not disclosed",
+          "source": "Greenhouse",
+          "skills": [
+                "Power BI",
+                "DAX",
+                "Power Query",
+                "SQL"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-14 via Greenhouse form; 'Thank you for your interest - your application has been received' confirmation page (5366802008/confirmation) seen. Answers: Night Shift (required)=Yes (user-confirmed US shifts), expected salary '10-12 LPA' (user's stated range, 12 Nov WhatsApp), notice '15-day notice period', Degree Bachelor's Degree (literal option). No attestation/demographics/address fields.",
+          "experience_required": "2+ years"
     }
   ]
 }
