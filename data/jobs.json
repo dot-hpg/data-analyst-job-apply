@@ -3899,6 +3899,34 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "linkedin-h-m-senior-data-analyst-4486832846",
+      "company": "H&M",
+      "role": "Senior Data Analyst",
+      "location": "Bengaluru",
+      "work_type": "On-site (Bengaluru)",
+      "link": "https://www.linkedin.com/jobs/view/4486832846/",
+      "status": "Applied",
+      "fit_score": 66,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "LinkedIn",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Retail analytics"
+      ],
+      "why_fit": "Bengaluru senior data analyst at H&M (SmartRecruiters via LinkedIn Easy Apply). Answered with CTC band 5–8L, hike beyond 30%, notice up to 30 days option, 2–4 yrs experience, never managed people; accepted H&M privacy notice.",
+      "notes": "Applied via LinkedIn on 2026-11-13 (~14:04 UTC). Bengaluru senior data analyst at H&M (SmartRecruiters via LinkedIn Easy Apply). Answered with CTC band 5–8L, hike beyond 30%, notice up to 30 days option, 2–4 yrs experience, never managed people; accepted H&M privacy notice.",
+      "cover_note": "Hi H&M team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Senior Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards with validation checks, and in case studies I have run cohort, RFM/CLV, A/B-style and regression analysis on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "Not stated",
+      "industry": "Retail / fashion",
+      "applied_via": "LinkedIn Easy Apply",
+      "application_status": "Submitted, awaiting response",
+      "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
     }
   ]
 }
