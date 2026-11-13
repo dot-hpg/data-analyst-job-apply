@@ -107,6 +107,11 @@ svg { stroke: currentColor; fill: none; stroke-width: 2; stroke-linecap: round; 
 .btn svg { width: 16px; height: 16px; flex: none; }
 .btn.icon svg { width: 18px; height: 18px; }
 .btn.sm { min-height: 30px; padding: 6px 10px; font-size: .8rem; border-radius: 8px; }
+.btn.refresh svg { width: 17px; height: 17px; }
+.btn.refresh.spin svg { animation: spin .8s linear infinite; }
+.btn:disabled { opacity: .7; cursor: progress; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.sync { font-size: .76rem; color: var(--muted); white-space: nowrap; }
 .link { background: none; border: 0; padding: 0; color: var(--accent); font: inherit; font-weight: 600; cursor: pointer; }
 .link:hover { text-decoration: underline; }
 
@@ -423,7 +428,9 @@ dialog::backdrop { background: rgba(8, 10, 22, .45); backdrop-filter: blur(2px);
 @media (max-width: 600px) {
   .wrap { padding: 0 16px; }
   .hide-sm { display: none; }
-  .topbar-in { height: 56px; }
+  .topbar-in { height: 56px; gap: 10px; }
+  .top-actions { gap: 6px; }
+  .btn.refresh { width: 38px; padding: 0; }
   .brand-text small { display: none; }
   .hero { padding: 26px 0 22px; }
   .lede { font-size: .94rem; }

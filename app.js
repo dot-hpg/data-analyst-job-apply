@@ -133,14 +133,34 @@
   });
 
   // ================= Data =================
-  async function load() {
+  // Read the newest data straight from GitHub (updates the moment a change is pushed),
+  // and fall back to the copy deployed with the site.
+  const GH_RAW = "https://raw.githubusercontent.com/dot-hpg/data-analyst-job-apply/main/";
+  let lastSync = null;
+  async function getJson(url) {
+    const res = await fetch(url, { cache: "no-store" });
+    if (!res.ok) throw new Error(res.status + " " + url);
+    return res.json();
+  }
+  async function fetchData(path, listKey) {
+    const t = Date.now();
+    const [gh, site] = await Promise.allSettled([getJson(`${GH_RAW}${path}?t=${t}`), getJson(`${path}?t=${t}`)]);
+    const list = (r) => (r.status === "fulfilled" ? (Array.isArray(r.value) ? r.value : r.value[listKey]) : null);
+    const a = list(gh), b = list(site);
+    if (!a && !b) throw new Error("Could not load " + path);
+    if (!a) return b;
+    if (!b) return a;
+    const score = (l) => l.filter((j) => SENT.has(j.status)).length * 100000 + l.length;
+    return listKey === "jobs" ? (score(b) > score(a) ? b : a) : (b.length > a.length ? b : a);
+  }
+
+  async function load(first = true) {
     try {
-      const res = await fetch("data/jobs.json", { cache: "no-store" });
-      const data = await res.json();
-      baseJobs = Array.isArray(data) ? data : data.jobs || [];
+      baseJobs = await fetchData("data/jobs.json", "jobs");
     } catch (e) {
-      baseJobs = [];
-      console.error("Could not load data/jobs.json", e);
+      console.error(e);
+      if (first) baseJobs = [];
+      else { toast("Couldn't reach the latest data. Check your connection."); return false; }
     }
     baseJobs.forEach((j, i) => { j._i = i; });
     // Start from the published data, then lay this browser's own edits on top,
@@ -160,20 +180,54 @@
       }
       jobs = jobs.map((j) => byId.get(j.id) || j);
     }
-    renderAll(true);
+    lastSync = Date.now();
+    renderAll(first);
+    renderSync();
     checkMilestone();
-    openFromHash();
+    if (first) openFromHash();
+    else if (drawerId) openDrawer(drawerId);
+    return true;
   }
 
   async function loadActivity() {
     try {
-      const res = await fetch("data/activity.json", { cache: "no-store" });
-      activity = ((await res.json()).activity || []).map((a, i) => ({ ...a, _i: i }));
+      activity = (await fetchData("data/activity.json", "activity")).map((a, i) => ({ ...a, _i: i }));
     } catch (e) {
-      console.error("Could not load data/activity.json", e);
+      console.error(e);
     }
     renderActivity();
   }
+
+  function renderSync() {
+    const el = $("#syncLabel");
+    if (!el || !lastSync) return;
+    const s = Math.round((Date.now() - lastSync) / 1000);
+    el.textContent = s < 45 ? "Updated just now" : s < 3600 ? `Updated ${Math.round(s / 60)} min ago` : `Updated ${Math.round(s / 3600)} h ago`;
+  }
+  setInterval(renderSync, 30000);
+
+  let refreshing = false;
+  async function refresh(silent) {
+    if (refreshing) return;
+    refreshing = true;
+    const btn = $("#refreshBtn");
+    btn.classList.add("spin");
+    btn.disabled = true;
+    const before = stats().sent.length;
+    const ok = await load(false);
+    await loadActivity();
+    btn.classList.remove("spin");
+    btn.disabled = false;
+    refreshing = false;
+    if (!ok) return;
+    const diff = stats().sent.length - before;
+    if (!silent || diff > 0) toast(diff > 0 ? `${diff} new application${diff > 1 ? "s" : ""} · ${stats().sent.length} applied` : `Up to date · ${stats().sent.length} applied`);
+  }
+  $("#refreshBtn").addEventListener("click", () => refresh(false));
+  // Pick up new applications when you come back to the tab or app.
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible" && lastSync && Date.now() - lastSync > 60000) refresh(true);
+  });
 
   function persist(msg) {
     store.set(LOCAL_KEY, JSON.stringify(jobs.map(({ _i, ...j }) => j)));
