@@ -5857,6 +5857,34 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "naukri-loadshare-networks-business-analyst-i-091126007327",
+      "company": "Loadshare Networks",
+      "role": "Business Analyst I",
+      "location": "Bengaluru",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-091126007327",
+      "status": "Applied",
+      "fit_score": 7,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Python"
+      ],
+      "why_fit": "Business analyst role at a logistics startup; SQL, Excel and dashboards fit.",
+      "notes": "Applied via Naukri on 2026-11-13 (~19:25 UTC). Business analyst role at a logistics startup; SQL, Excel and dashboards fit.",
+      "cover_note": "Hi Loadshare Networks team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Business Analyst I role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards with validation checks, and in case studies I have run cohort, RFM/CLV, A/B-style and regression analysis on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "0-2 years",
+      "industry": "Logistics tech",
+      "applied_via": "Naukri Apply (profile + recruiter questions)",
+      "application_status": "Submitted, awaiting response",
+      "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
     }
   ]
 }
