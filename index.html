@@ -28,6 +28,18 @@
 
     <section class="pipeline" id="pipeline" aria-label="Status pipeline"></section>
 
+    <section class="applied" aria-labelledby="appliedTitle">
+      <h2 id="appliedTitle">Applied companies <span id="appliedCount" class="count"></span></h2>
+      <p class="sub">Every application submitted, newest first. Tap a role to open the posting.</p>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>#</th><th>Company</th><th>Role</th><th>Location</th><th>Work type</th><th>Applied</th><th>Via</th><th>Fit</th><th>Recruiter / follow-up</th></tr></thead>
+          <tbody id="appliedRows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <h2 class="all-title">All jobs tracked</h2>
     <section class="controls" aria-label="Filters">
       <input id="q" type="search" placeholder="Search company, role, skills, notes…" aria-label="Search">
       <select id="fStatus" aria-label="Filter by status"><option value="">All statuses</option></select>
