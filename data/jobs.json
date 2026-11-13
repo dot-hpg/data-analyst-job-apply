@@ -3206,6 +3206,32 @@
       "employment_type": "Full-time",
       "applied_via": "Cutshort app (self)",
       "application_status": "Submitted, awaiting response"
+    },
+    {
+      "id": "cutshort-vy-systems-power-bi-power-platform-analyst",
+      "company": "Vy Systems",
+      "role": "Power BI / Power Platform Analyst",
+      "location": "Bengaluru / Hyderabad",
+      "work_type": "On-site",
+      "link": "",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "₹1L – ₹16L / yr",
+      "source": "Cutshort",
+      "skills": [
+        "Power BI",
+        "Power Apps",
+        "Power Automate",
+        "Excel"
+      ],
+      "why_fit": "Power BI dashboards and executive reporting match your Power BI work.",
+      "notes": "Applied by you on the Cutshort app on 2026-11-13. Separate from the MNC BI Developer agency job. Asks 5–10 yrs.",
+      "experience_required": "5-10 yrs",
+      "employment_type": "Full-time",
+      "applied_via": "Cutshort app (self)",
+      "application_status": "Submitted, awaiting response"
     }
   ]
 }
