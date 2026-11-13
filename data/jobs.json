@@ -4992,6 +4992,34 @@
       "why_fit": "",
       "notes": "Applied via Naukri on 2026-11-13 (~21:05 IST). Chatbot: 10th 9.7 CGPA, 12th 97%, SPA B.Arch 6.85, PG Woolf (in progress), exp 2.7 yrs.",
       "cover_note": ""
+    },
+    {
+      "id": "naukri-flipkart-operation-executive-data-analyst-111126033606",
+      "company": "Flipkart",
+      "role": "Operation Executive - Data Analyst",
+      "location": "Bengaluru",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-111126033606",
+      "status": "Applied",
+      "fit_score": 7,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Python"
+      ],
+      "why_fit": "Operations data analyst role; SQL, Excel and dashboard reporting fit.",
+      "notes": "Applied via Naukri on 2026-11-13 (~15:35 UTC). Operations data analyst role; SQL, Excel and dashboard reporting fit.",
+      "cover_note": "Hi Flipkart team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Operation Executive - Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards with validation checks, and in case studies I have run cohort, RFM/CLV, A/B-style and regression analysis on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "1-4 years",
+      "industry": "E-commerce",
+      "applied_via": "Naukri Apply (profile + recruiter questions)",
+      "application_status": "Submitted, awaiting response",
+      "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
     }
   ]
 }
