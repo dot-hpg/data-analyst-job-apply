@@ -50,11 +50,25 @@
       baseJobs = [];
       console.error("Could not load data/jobs.json", e);
     }
+    // Start from the published data, then lay this browser's own edits on top,
+    // so jobs added to data/jobs.json later always show up.
+    jobs = structuredClone(baseJobs);
     const local = store.get(LOCAL_KEY);
     if (local) {
-      try { jobs = JSON.parse(local); } catch { jobs = structuredClone(baseJobs); }
-    } else {
-      jobs = structuredClone(baseJobs);
+      try {
+        const mine = JSON.parse(local);
+        const byId = new Map(jobs.map((j) => [j.id, j]));
+        for (const lj of mine) {
+          const bj = byId.get(lj.id);
+          if (!bj) { jobs.push(lj); continue; }
+          // Keep the published status when it has moved further along (e.g. Applied).
+          const rank = (s) => ["Applied", "Interviewing", "Offer", "Rejected"].includes(s) ? 1 : 0;
+          const merged = { ...bj, ...lj };
+          if (rank(bj.status) > rank(lj.status)) { merged.status = bj.status; merged.date_applied = bj.date_applied; }
+          byId.set(lj.id, merged);
+        }
+        jobs = jobs.map((j) => byId.get(j.id) || j);
+      } catch { /* ignore bad local data */ }
     }
     render();
   }
@@ -88,6 +102,27 @@
     if (!legend) { legend = document.createElement("div"); legend.className = "legend"; $("#pipeline").after(legend); }
     legend.innerHTML = STATUSES.filter((s) => count(s.key))
       .map((s) => `<span><i style="background:var(${s.color})"></i>${s.key} ${count(s.key)}</span>`).join("");
+
+    const appliedJobs = jobs.map((j, i) => [j, i])
+      .filter(([j]) => ["Applied", "Interviewing", "Offer", "Rejected"].includes(j.status))
+      .sort((a, b) => (b[0].date_applied || "").localeCompare(a[0].date_applied || "") || b[1] - a[1])
+      .map(([j]) => j);
+    $("#appliedCount").textContent = `(${appliedJobs.length})`;
+    $("#appliedRows").innerHTML = appliedJobs.map((j, i) => {
+      const url = safeUrl(j.link);
+      const rec = [j.recruiter_name, j.recruiter_email].filter(Boolean).join(" · ");
+      return `<tr>
+        <td class="num">${appliedJobs.length - i}</td>
+        <td><b>${esc(j.company)}</b>${j.status !== "Applied" ? `<div class="small">${esc(j.status)}</div>` : ""}</td>
+        <td>${url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(j.role)}</a>` : esc(j.role)}${j.salary && j.salary !== "Not disclosed" ? `<div class="small">💰 ${esc(j.salary)}</div>` : ""}</td>
+        <td>${esc(j.location || "—")}</td>
+        <td>${esc(j.work_type || "")}</td>
+        <td style="white-space:nowrap">${fmtDate(j.date_applied)}</td>
+        <td>${esc(j.source || "")}</td>
+        <td>${j.fit_score != null ? esc(j.fit_score) : ""}</td>
+        <td>${rec ? esc(rec) : ""}${j.outreach ? `<div class="small">${esc(j.outreach)}</div>` : rec ? "" : `<span class="small">None listed</span>`}</td>
+      </tr>`;
+    }).join("");
 
     const q = $("#q").value.trim().toLowerCase();
     const fs = $("#fStatus").value;
@@ -125,6 +160,7 @@
           </div>
           ${j.why_fit ? `<p class="why">${esc(j.why_fit)}</p>` : ""}
           ${j.notes ? `<p class="notes">${esc(j.notes)}</p>` : ""}
+          ${j.recruiter_name || j.recruiter_email || j.outreach ? `<p class="recruiter">👤 ${esc([j.recruiter_name, j.recruiter_email].filter(Boolean).join(" · ") || "Recruiter")}${j.outreach ? ` · ${esc(j.outreach)}` : ""}</p>` : ""}
           ${j.cover_note ? `<details class="cover"><summary>Cover note</summary><pre>${esc(j.cover_note)}</pre><button class="btn" type="button" data-copy="${esc(j.id)}">Copy</button></details>` : ""}
           ${(j.skills || []).length ? `<div class="tags">${j.skills.map((s) => `<span class="tag">${esc(s)}</span>`).join("")}</div>` : ""}
         </div>
@@ -225,7 +261,7 @@
   }
   $("#exportJson").addEventListener("click", () => download("jobs.json", JSON.stringify({ jobs }, null, 2) + "\n", "application/json"));
   $("#exportCsv").addEventListener("click", () => {
-    const cols = ["company", "role", "location", "work_type", "link", "status", "fit_score", "date_found", "date_applied", "salary", "source", "skills", "why_fit", "notes", "cover_note"];
+    const cols = ["company", "role", "location", "work_type", "link", "status", "fit_score", "date_found", "date_applied", "salary", "source", "skills", "why_fit", "notes", "recruiter_name", "recruiter_email", "outreach", "cover_note"];
     const cell = (v) => `"${String(Array.isArray(v) ? v.join("; ") : v ?? "").replace(/"/g, '""')}"`;
     const csv = [cols.join(","), ...jobs.map((j) => cols.map((c) => cell(j[c])).join(","))].join("\n");
     download("jobs.csv", csv + "\n", "text/csv");
