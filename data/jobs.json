@@ -5645,6 +5645,34 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "naukri-infosys-power-bi-consultant-2-5-yrs-131026927854",
+      "company": "Infosys",
+      "role": "Power BI Consultant (2-5 yrs)",
+      "location": "Bengaluru",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-131026927854",
+      "status": "Applied",
+      "fit_score": 8,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "Power BI",
+        "DAX",
+        "SQL",
+        "Excel"
+      ],
+      "why_fit": "Power BI consultant role; direct match to dashboard and DAX work.",
+      "notes": "Applied via Naukri on 2026-11-13 (~19:18 UTC). Power BI consultant role; direct match to dashboard and DAX work.",
+      "cover_note": "Hi Infosys team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Power BI Consultant (2-5 yrs) role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards with validation checks, and in case studies I have run cohort, RFM/CLV, A/B-style and regression analysis on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "2-5 years",
+      "industry": "IT services",
+      "applied_via": "Naukri Apply (profile + recruiter questions)",
+      "application_status": "Submitted, awaiting response",
+      "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
     }
   ]
 }
