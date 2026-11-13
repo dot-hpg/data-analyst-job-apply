@@ -3291,6 +3291,28 @@
       "employment_type": "Full-time",
       "applied_via": "Cutshort (self)",
       "application_status": "Submitted, awaiting response"
+    },
+    {
+      "id": "task-oliver-wyman-business-analyst-sql-excel-r332336",
+      "company": "Oliver Wyman (Marsh McLennan)",
+      "role": "Business Analyst (SQL & Excel)",
+      "location": "Hyderabad - Kondapur",
+      "work_type": "Hybrid",
+      "link": "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Oliver-Wyman---Business-Analyst--SQL---Excel----Hyderabad_R_332336",
+      "status": "Applied",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "",
+      "source": "Oliver Wyman careers site (Workday)",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Data validation",
+        "Dashboards"
+      ],
+      "notes": "Applied 2026-11-13 on the Oliver Wyman careers site. Workday shows status Applied. Listing asks 1+ yrs SQL and Excel.",
+      "cover_note": ""
     }
   ]
-}
+    }
