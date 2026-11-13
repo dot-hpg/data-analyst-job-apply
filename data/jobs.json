@@ -3955,6 +3955,28 @@
       "applied_via": "LinkedIn Easy Apply",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "naukri-ideyalabs-business-analyst",
+      "company": "Ideyalabs Tech",
+      "role": "Business Analyst",
+      "location": "Hyderabad",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-business-analyst-ideyalabs-tech-hyderabad-0-to-5-years-131126026968",
+      "status": "Applied",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "Power BI",
+        "Tableau",
+        "SQL"
+      ],
+      "why_fit": "",
+      "notes": "Applied 2026-11-13 via Naukri; confirmation page shown.",
+      "experience_required": "2-5 years"
     }
   ]
 }
