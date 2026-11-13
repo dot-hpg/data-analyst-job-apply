@@ -4652,6 +4652,34 @@
       "applied_via": "LinkedIn Easy Apply",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "linkedin-guidant-global-bi-specialist-power-bi-development-4489933369",
+      "company": "Guidant Global",
+      "role": "BI Specialist - Power BI Development",
+      "location": "Hyderabad",
+      "work_type": "On-site",
+      "link": "https://www.linkedin.com/jobs/view/4489933369/",
+      "status": "Applied",
+      "fit_score": 8,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "LinkedIn",
+      "skills": [
+        "Power BI",
+        "DAX",
+        "SQL",
+        "Data Modelling"
+      ],
+      "why_fit": "Power BI development role; direct match to Hari's dashboard work.",
+      "notes": "Applied via LinkedIn on 2026-11-13 (~15:10 UTC). Power BI development role; direct match to Hari's dashboard work.",
+      "cover_note": "Hi Guidant Global team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your BI Specialist - Power BI Development role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards with validation checks, and in case studies I have run cohort, RFM/CLV, A/B-style and regression analysis on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "Not stated",
+      "industry": "Workforce solutions / BI",
+      "applied_via": "LinkedIn Easy Apply",
+      "application_status": "Submitted, awaiting response",
+      "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
     }
   ]
 }
