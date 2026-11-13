@@ -902,7 +902,7 @@
       "status": "Applied",
       "fit_score": 80,
       "date_found": "2026-11-12",
-      "date_applied": "2026-11-12",
+      "date_applied": "2026-11-14",
       "salary": "",
       "source": "LinkedIn",
       "skills": [
@@ -912,7 +912,7 @@
         "Business intelligence"
       ],
       "why_fit": "Remote BI analyst role; asks ~2 yrs.",
-      "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:15 UTC). Remote BI analyst role; asks ~2 yrs.",
+      "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:15 UTC). Remote BI analyst role; asks ~2 yrs. | Applied via Wellfound on 2026-11-14 (~01:11 IST). Wellfound apply with tailored note. Greeting in note included location text by mistake.",
       "cover_note": "Hi Persiv Technology team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Business Intelligence Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
       "experience_required": "Not stated",
       "seniority": "Mid-Senior",
@@ -6384,6 +6384,195 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "solulab-productbusinessanalystaigenera",
+      "company": "Solulab",
+      "role": "Product & Business Analyst — AI Generalist",
+      "location": "Remote (India)",
+      "work_type": "Remote (India)",
+      "link": "https://wellfound.com/jobs/4995178-product-business-analyst-ai-generalist",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Data analysis"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:11 IST). Wellfound apply with tailored note.",
+      "cover_note": ""
+    },
+    {
+      "id": "ucobusiness-quantitativeanalyst",
+      "company": "UCO Business",
+      "role": "Quantitative Analyst",
+      "location": "Hyderabad / Remote (India)",
+      "work_type": "Remote (India)",
+      "link": "https://wellfound.com/jobs/4897435-quantitative-analyst",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Data analysis"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:11 IST). Wellfound apply with tailored note.",
+      "cover_note": ""
+    },
+    {
+      "id": "maxhomeai-dataoperationsanalyst",
+      "company": "MaxHome.ai",
+      "role": "Data Operations Analyst",
+      "location": "Bengaluru",
+      "work_type": "On-site",
+      "link": "https://wellfound.com/jobs/3248318-data-operations-analyst",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Data analysis"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:11 IST). Wellfound apply with tailored note.",
+      "cover_note": ""
+    },
+    {
+      "id": "zendatashastra-seniorbusinessanalyst",
+      "company": "Zen Data Shastra",
+      "role": "Senior Business Analyst",
+      "location": "Bengaluru",
+      "work_type": "On-site",
+      "link": "https://wellfound.com/jobs/4875053-senior-business-analyst",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Data analysis"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:11 IST). Wellfound apply with tailored note.",
+      "cover_note": ""
+    },
+    {
+      "id": "zoniqx-seniorbusinessanalystproductcl",
+      "company": "Zoniqx",
+      "role": "Senior Business Analyst, Product & Client Delivery",
+      "location": "Bengaluru / Remote",
+      "work_type": "Hybrid",
+      "link": "https://wellfound.com/jobs/4867211-senior-business-analyst-product-client-delivery",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Data analysis"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:11 IST). Wellfound apply with tailored note.",
+      "cover_note": ""
+    },
+    {
+      "id": "contexq-foundingbusinessanalystfincrim",
+      "company": "ContexQ",
+      "role": "Founding Business Analyst - FinCrime & Risk Data",
+      "location": "Remote (India)",
+      "work_type": "Remote (India)",
+      "link": "https://wellfound.com/jobs/4824487-founding-business-analyst-fincrime-risk-data",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Data analysis"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:11 IST). Wellfound apply with tailored note. Greeting in note garbled by title parsing.",
+      "cover_note": ""
+    },
+    {
+      "id": "codemonk-associatebusinessanalyst",
+      "company": "Codemonk",
+      "role": "Associate Business Analyst",
+      "location": "Bengaluru",
+      "work_type": "On-site",
+      "link": "https://wellfound.com/jobs/4791901-associate-business-analyst",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Data analysis"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:11 IST). Wellfound apply with tailored note.",
+      "cover_note": ""
+    },
+    {
+      "id": "revalsystechnologies-businessanalystandprojectcoord",
+      "company": "Revalsys Technologies",
+      "role": "Business Analyst and Project Coordinator",
+      "location": "Hyderabad",
+      "work_type": "On-site",
+      "link": "https://wellfound.com/jobs/4666082-business-analyst-and-project-coordinator",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Data analysis"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:11 IST). Wellfound apply with tailored note.",
+      "cover_note": ""
+    },
+    {
+      "id": "mayuraconsultancyservices-associatebusinessanalystclient",
+      "company": "Mayura Consultancy Services",
+      "role": "Associate Business Analyst – Client Implementation & QA",
+      "location": "Bengaluru",
+      "work_type": "On-site",
+      "link": "https://wellfound.com/jobs/4781435-associate-business-analyst-client-implementation-qa",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Data analysis"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:11 IST). Wellfound apply with tailored note.",
+      "cover_note": ""
     }
   ]
 }
