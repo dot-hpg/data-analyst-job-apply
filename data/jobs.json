@@ -3048,10 +3048,10 @@
       "location": "Bengaluru",
       "work_type": "On-site",
       "link": "https://builtin.com/job/business-analyst/11391426",
-      "status": "Shortlisted",
+      "status": "Applied",
       "fit_score": 80,
       "date_found": "2026-11-13",
-      "date_applied": "",
+      "date_applied": "2026-11-13",
       "salary": "Not disclosed",
       "source": "Built In",
       "skills": [
@@ -3060,7 +3060,7 @@
         "Excel"
       ],
       "why_fit": "Matches your SQL, Python and Power BI reporting experience; Hyderabad/Bengaluru or remote India.",
-      "notes": "Found 2026-11-13; queued to apply once portal sign-ins are restored.",
+      "notes": "Applied 2026-11-13 on the Slice careers form; confirmation page shown.",
       "experience_required": "Junior"
     },
     {
@@ -3427,4 +3427,4 @@
       "experience_required": "0-1 yrs"
     }
   ]
-}
+    }
