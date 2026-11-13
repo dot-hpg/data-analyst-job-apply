@@ -6802,6 +6802,50 @@
           "why_fit": "",
           "notes": "Applied 2026-11-14 via Greenhouse form; 'Thank you for your interest - your application has been received' confirmation page (5366802008/confirmation) seen. Answers: Night Shift (required)=Yes (user-confirmed US shifts), expected salary '10-12 LPA' (user's stated range, 12 Nov WhatsApp), notice '15-day notice period', Degree Bachelor's Degree (literal option). No attestation/demographics/address fields.",
           "experience_required": "2+ years"
+    },
+    {
+          "id": "lever-paytm-business-analyst-lending",
+          "company": "Paytm",
+          "role": "Business Analyst - Assistant Manager - Lending Reserve",
+          "location": "Noida, Uttar Pradesh",
+          "work_type": "On-site",
+          "link": "https://jobs.lever.co/paytm/99417427",
+          "status": "Parked - route blocked",
+          "fit_score": null,
+          "date_found": "2026-11-14",
+          "date_applied": null,
+          "salary": "Not disclosed",
+          "source": "Lever",
+          "skills": [
+                "SQL",
+                "Excel",
+                "Analytics"
+          ],
+          "why_fit": "",
+          "notes": "Parked 2026-11-14: Lever hCaptcha 'error verifying your application' on submit after solved challenge; two bounded attempts failed; terminal per main (no retry, no config probe). Form was prepared with reviewed answers but never submitted.",
+          "experience_required": ""
+    },
+    {
+          "id": "greenhouse-gitlab-staff-data-analyst",
+          "company": "GitLab",
+          "role": "Staff Data Analyst",
+          "location": "Bangalore (all-remote)",
+          "work_type": "Remote",
+          "link": "https://job-boards.greenhouse.io/gitlab/jobs/8827370002",
+          "status": "Parked - unanswered required screening",
+          "fit_score": null,
+          "date_found": "2026-11-14",
+          "date_applied": null,
+          "salary": "Not disclosed",
+          "source": "Greenhouse",
+          "skills": [
+                "SQL",
+                "Python",
+                "Analytics"
+          ],
+          "why_fit": "",
+          "notes": "Parked 2026-11-14 per main: two required screening questions without evidence - 'Are you subject to any employment agreements and/or post-employment restrictions with your current employer or a past employer?*' and 'Have you previously worked at or consulted for GitLab?*'. Batched for later user decision.",
+          "experience_required": ""
     }
   ]
 }
