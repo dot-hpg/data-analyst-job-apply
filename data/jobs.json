@@ -6678,6 +6678,34 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "naukri-golden-management-services-data-analyst-021126013452",
+      "company": "Golden Management Services",
+      "role": "Data Analyst",
+      "location": "Hyderabad / Bengaluru / Pune",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-021126013452",
+      "status": "Applied",
+      "fit_score": 7,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Data analyst role in Hyderabad/Bengaluru; SQL, Python and Power BI fit.",
+      "notes": "Applied via Naukri on 2026-11-13 (~19:45 UTC). Data analyst role in Hyderabad/Bengaluru; SQL, Python and Power BI fit.",
+      "cover_note": "Hi Golden Management Services team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards with validation checks, and in case studies I have run cohort, RFM/CLV, A/B-style and regression analysis on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "Not stated",
+      "industry": "Staffing / Consulting",
+      "applied_via": "Naukri Apply (profile + recruiter questions)",
+      "application_status": "Submitted, awaiting response",
+      "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
     }
   ]
 }
