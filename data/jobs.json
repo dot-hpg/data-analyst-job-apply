@@ -4603,6 +4603,27 @@
       "why_fit": "Lead title is a stretch at 2 yrs.",
       "notes": "Applied via LinkedIn on 2026-11-13 (~20:37 IST). Easy Apply. Power BI 2 yrs; start immediately: No.",
       "cover_note": ""
+    },
+    {
+      "id": "ravencreators-dataanalyst",
+      "company": "RavenCreators",
+      "role": "Data Analyst",
+      "location": "India",
+      "work_type": "Remote (India)",
+      "link": "https://www.linkedin.com/jobs/search-results/?keywords=data%20analyst&f_WT=2",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "",
+      "source": "LinkedIn",
+      "skills": [
+        "Data analysis",
+        "SQL"
+      ],
+      "why_fit": "",
+      "notes": "Applied via LinkedIn on 2026-11-13 (~20:38 IST). Easy Apply, single page, no screening questions.",
+      "cover_note": ""
     }
   ]
 }
