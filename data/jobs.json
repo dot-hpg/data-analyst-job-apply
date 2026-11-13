@@ -5020,6 +5020,75 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+          "id": "naukri-pepsico-revenue-management-analyst",
+          "company": "PepsiCo Global Business Services India",
+          "role": "Revenue Management Analyst",
+          "location": "Hyderabad",
+          "work_type": "On-site",
+          "link": "https://www.naukri.com/job-listings-revenue-management-analyst-pepsico-global-business-services-india-llp-hyderabad-2-to-2-years-151026930621",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-13",
+          "date_applied": "2026-11-13",
+          "salary": "Not disclosed",
+          "source": "Naukri",
+          "skills": [
+                "SQL",
+                "Python",
+                "Dashboards",
+                "Analytics"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-13 via Naukri; confirmation page shown.",
+          "experience_required": "2 years"
+    },
+    {
+          "id": "naukri-oyo-business-analyst",
+          "company": "OYO",
+          "role": "Business Analyst",
+          "location": "Gurugram",
+          "work_type": "On-site",
+          "link": "https://www.naukri.com/job-listings-business-analyst-oyo-gurugram-2-to-5-years-061126012547",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-13",
+          "date_applied": "2026-11-13",
+          "salary": "Not disclosed",
+          "source": "Naukri",
+          "skills": [
+                "Python",
+                "SQL",
+                "Advanced Excel",
+                "Dashboards"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-13 via Naukri; confirmation page shown.",
+          "experience_required": "2-5 years"
+    },
+    {
+          "id": "naukri-new-vision-data-analyst",
+          "company": "New Vision Global Industries",
+          "role": "Data Analyst",
+          "location": "Coimbatore",
+          "work_type": "On-site",
+          "link": "https://www.naukri.com/job-listings-data-analyst-new-vision-global-industries-coimbatore-1-to-2-years-101126012551",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-13",
+          "date_applied": "2026-11-13",
+          "salary": "Not disclosed",
+          "source": "Naukri",
+          "skills": [
+                "Excel",
+                "MIS",
+                "Dashboards",
+                "Data Validation"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-13 via Naukri; confirmation page shown.",
+          "experience_required": "1-2 years"
     }
   ]
 }
