@@ -2,7 +2,7 @@
   "use strict";
 
   // ================= Config =================
-  const GOAL = 100;
+  const GOAL = 500;
   const MILESTONES = [10, 25, 50, 75, 100];
   const STATUSES = [
     { key: "Shortlisted", color: "--s-shortlisted" },

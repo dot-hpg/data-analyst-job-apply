@@ -304,6 +304,11 @@
       "date": "2026-11-13",
       "action": "Reconciled with Hari's device export",
       "detail": "Marked Applied on Hari's report: 12 roles he had already updated on his device plus the 20 roles in his queue (application dates not recorded for the 20). Integrate set to Skipped per his device. A duplicate Fidelity entry in his export was not added."
+    },
+    {
+      "date": "2026-11-13",
+      "action": "Goal raised to 500 applications",
+      "detail": "Target widened from 100 to 500 applications across all portals: data analyst and related roles in and around Hyderabad and Bangalore, plus remote."
     }
   ]
 }

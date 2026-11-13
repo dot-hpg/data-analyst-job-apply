@@ -6,9 +6,9 @@ A small static website that tracks every data analyst job found and applied to d
 
 ## Using it
 
-- **Overview:** progress toward the 100-application goal (count, ring, milestones, pace and projected finish date), streak, today's count, and KPI tiles (queue, interviews, response rate, remote share, average fit).
+- **Overview:** progress toward the 500-application goal (count, ring, milestones, pace and projected finish date), streak, today's count, and KPI tiles (queue, interviews, response rate, remote share, average fit).
 - **Pipeline:** one tile per status; click a stage to filter the list.
-- **Insights:** road-to-100 chart with projection, applications per day, portal and location breakdowns (click a bar to filter), and the skills employers ask for (click a skill to search it).
+- **Insights:** road-to-500 chart with projection, applications per day, portal and location breakdowns (click a bar to filter), and the skills employers ask for (click a skill to search it).
 - **Applications:** search (press `/`), filter chips for status, portal, location and work type, and three views: cards, a sortable table, and a board where you drag a card to change its status. Click any company for a detail panel with the posting link, notes, recruiter and cover note. Links like `#job=<id>` open a job directly.
 - Edits (status changes, **+ Add job**, **Edit**) are saved in your browser only. Use the download menu → **Export JSON** and commit the file as `data/jobs.json` to make them permanent; **Export CSV** is for Excel / Google Sheets.
 - Light and dark themes follow your system, with a toggle in the top bar.
