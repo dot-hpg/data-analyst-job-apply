@@ -5089,6 +5089,29 @@
           "why_fit": "",
           "notes": "Applied 2026-11-13 via Naukri; confirmation page shown.",
           "experience_required": "1-2 years"
+    },
+    {
+          "id": "creditsamadhaan-senior-data-analyst",
+          "company": "Credit Samadhaan",
+          "role": "Senior Data Analyst",
+          "location": "Indore",
+          "work_type": "On-site",
+          "link": "https://creditsamadhaan.com/our-network/careers/",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-13",
+          "date_applied": "2026-11-13",
+          "salary": "Not disclosed",
+          "source": "Company website",
+          "skills": [
+                "SQL",
+                "Python",
+                "Power BI",
+                "Dashboards"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-13 via employer careers portal; confirmation banner shown.",
+          "experience_required": "2-5 years"
     }
   ]
 }
