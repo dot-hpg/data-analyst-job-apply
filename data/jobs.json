@@ -4852,6 +4852,34 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "naukri-indus-towers-mis-executive-and-project-coordinator-150526007760",
+      "company": "Indus Towers",
+      "role": "MIS Executive and Project Coordinator",
+      "location": "Hyderabad",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-150526007760",
+      "status": "Applied",
+      "fit_score": 6,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "Excel",
+        "MIS Reporting",
+        "SQL",
+        "Power BI"
+      ],
+      "why_fit": "MIS reporting and coordination role; Excel, SQL and dashboard reporting fit.",
+      "notes": "Applied via Naukri on 2026-11-13 (~15:32 UTC). MIS reporting and coordination role; Excel, SQL and dashboard reporting fit.",
+      "cover_note": "Hi Indus Towers team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your MIS Executive and Project Coordinator role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards with validation checks, and in case studies I have run cohort, RFM/CLV, A/B-style and regression analysis on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "2-6 years",
+      "industry": "Telecom infrastructure",
+      "applied_via": "Naukri Apply (profile + recruiter questions)",
+      "application_status": "Submitted, awaiting response",
+      "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
     }
   ]
 }
