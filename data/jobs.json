@@ -1676,6 +1676,36 @@
       "applied_via": "Wellfound (Quick Apply with tailored note)",
       "resume_sent": "Wellfound profile resume",
       "application_status": "Submitted, awaiting response"
+    },
+    {
+      "id": "wellfound-doableclaw-business-analyst-product-5035146",
+      "company": "DoableClaw",
+      "role": "Business Analyst (Product)",
+      "location": "Bengaluru / Remote",
+      "work_type": "Remote (India)",
+      "link": "https://wellfound.com/jobs/5035146-business-analyst-product",
+      "status": "Applied",
+      "fit_score": 76,
+      "date_found": "2026-11-12",
+      "date_applied": "2026-11-13",
+      "salary": "₹20L – ₹30L + 0.1–0.2% equity",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Python",
+        "Product analytics",
+        "AI evals"
+      ],
+      "why_fit": "Analyse product and sales data for an AI outbound pipeline; your funnel/cohort analysis and LLM-agent projects fit.",
+      "notes": "Applied via Wellfound on 2026-11-13 with a tailored note.",
+      "cover_note": "Hi DoableClaw team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Business Analyst (Product) role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards with validation checks, and in case studies I have run cohort, RFM/CLV, A/B-style and regression analysis on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "1–2 yrs",
+      "industry": "B2B sales automation startup (1–10)",
+      "seniority": "Not stated",
+      "employment_type": "Full-time",
+      "applied_via": "Wellfound (Quick Apply with tailored note)",
+      "resume_sent": "Wellfound profile resume",
+      "application_status": "Submitted, awaiting response"
     }
   ]
 }
