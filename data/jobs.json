@@ -3425,6 +3425,50 @@
       "why_fit": "Analytics role in Hyderabad/Bengaluru on Cutshort, where you're already applying.",
       "notes": "Found 2026-11-13 on Cutshort. Fresher role; pay below your current CTC.",
       "experience_required": "0-1 yrs"
+    },
+    {
+      "id": "naukri-nxtwave-data-analyst",
+      "company": "NxtWave",
+      "role": "Data Analyst",
+      "location": "Hyderabad",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-data-analyst-nxtwave-disruptive-technologies-hyderabad-1-to-3-years-091026021292",
+      "status": "Applied",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI"
+      ],
+      "why_fit": "",
+      "notes": "Applied 2026-11-13 via Naukri; confirmation page shown.",
+      "experience_required": "1-3 years"
+    },
+    {
+      "id": "naukri-money-view-business-analyst",
+      "company": "Money View",
+      "role": "Business Analyst",
+      "location": "Bengaluru",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-business-analyst-money-view-bengaluru-1-to-3-years-101126015590",
+      "status": "Applied",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Python",
+        "Tableau"
+      ],
+      "why_fit": "",
+      "notes": "Applied 2026-11-13 via Naukri; confirmation page shown.",
+      "experience_required": "1-3 years"
     }
   ]
     }
