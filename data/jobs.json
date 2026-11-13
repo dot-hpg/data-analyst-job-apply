@@ -6195,6 +6195,55 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+          "id": "naukri-moveinsync-data-analyst",
+          "company": "MoveInSync",
+          "role": "Data Analyst",
+          "location": "Bengaluru",
+          "work_type": "On-site",
+          "link": "https://www.naukri.com/job-listings-data-analyst-moveinsync-technology-solutions-bengaluru-1-to-3-years-041126022072",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-14",
+          "date_applied": "2026-11-14",
+          "salary": "Not disclosed",
+          "source": "Naukri",
+          "skills": [
+                "SQL",
+                "Tableau",
+                "Power BI",
+                "Metabase",
+                "Excel",
+                "ETL"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-14 via Naukri quick-apply; 'Applied to Data Analyst' confirmation page seen.",
+          "experience_required": "1-3 years"
+    },
+    {
+          "id": "naukri-khatabook-business-analyst-operations",
+          "company": "Khatabook",
+          "role": "Business Analyst - Operations",
+          "location": "Bengaluru",
+          "work_type": "On-site",
+          "link": "https://www.naukri.com/job-listings-business-analyst-khatabook-bengaluru-2-to-3-years-051126033468",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-14",
+          "date_applied": "2026-11-14",
+          "salary": "Not disclosed",
+          "source": "Naukri",
+          "skills": [
+                "SQL",
+                "Excel",
+                "Tableau",
+                "Power BI",
+                "Statistics"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-14 via Naukri quick-apply; 'Applied to Business Analyst' confirmation + Khatabook interview-prep module seen.",
+          "experience_required": "2-3 years"
     }
   ]
 }
