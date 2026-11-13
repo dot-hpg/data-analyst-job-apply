@@ -5969,6 +5969,27 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "snabbit-productanalyst",
+      "company": "Snabbit",
+      "role": "Product Analyst",
+      "location": "Bengaluru (Koramangala)",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-product-analyst-snabbit-bengaluru-1-to-6-years-111126019120",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Product analytics"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Naukri on 2026-11-14 (~00:58 IST). Chatbot: product analytics 2 yrs (customer/cohort analytics); relocate to Bengaluru Yes.",
+      "cover_note": ""
     }
   ]
 }
