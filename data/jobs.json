@@ -2586,6 +2586,70 @@
       "why_fit": "Matches your SQL, Python and Power BI reporting experience; in Hyderabad/Bengaluru or remote India.",
       "notes": "Found 2026-11-13; queued for the PC session to apply.",
       "experience_required": "Not shown"
+    },
+    {
+      "id": "task-69-ge-vernova-data-analyst",
+      "company": "GE Vernova",
+      "role": "Data Analyst",
+      "location": "Bangalore",
+      "work_type": "On-site (not confirmed)",
+      "link": "https://www.naukri.com/job-listings-data-analyst-ge-renewable-energy-technologies-private-limited-bengaluru-2-to-5-years-131026940940",
+      "status": "Applied",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "",
+      "source": "Naukri",
+      "skills": [
+        "Python",
+        "PostgreSQL",
+        "Power BI"
+      ],
+      "why_fit": "",
+      "notes": "Applied 2026-11-13 12:24 IST via Naukri Apply. Listing 2-5 yrs: Python automation, ELT pipelines, Power BI.",
+      "cover_note": ""
+    },
+    {
+      "id": "task-70-equinix-data-quality-analyst",
+      "company": "Equinix",
+      "role": "Data Quality Analyst",
+      "location": "Bangalore",
+      "work_type": "On-site (not confirmed)",
+      "link": "https://www.naukri.com/job-listings-data-quality-analyst-equinix-india-professional-services-private-limited-bengaluru-2-to-7-years-151026926991",
+      "status": "Applied",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Data quality"
+      ],
+      "why_fit": "",
+      "notes": "Applied 2026-11-13 12:25 IST via Naukri Apply. Listing 2-7 yrs: data quality rules and metrics.",
+      "cover_note": ""
+    },
+    {
+      "id": "task-71-pwc-data-analysis-sql",
+      "company": "PwC",
+      "role": "Data Analysis - SQL + Core Domain Data skills",
+      "location": "Hyderabad",
+      "work_type": "Hybrid",
+      "link": "https://www.naukri.com/job-listings-data-analysis-sql-core-domain-data-skills-pwc-hyderabad-chennai-bengaluru-2-to-4-years-101126012928",
+      "status": "Applied",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Statistics"
+      ],
+      "why_fit": "",
+      "notes": "Applied 2026-11-13 12:26 IST via Naukri Apply. Listing 2-4 yrs: SQL, statistics, visualisations.",
+      "cover_note": ""
     }
   ]
-}
+    }
