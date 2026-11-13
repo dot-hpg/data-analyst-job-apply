@@ -194,6 +194,11 @@
       "date": "2026-11-12",
       "action": "Applied: Yonder Talent India",
       "detail": "LinkedIn Easy Apply: Revenue Analyst (India (Remote))."
+    },
+    {
+      "date": "2026-11-13",
+      "action": "Full details for all 32 applied companies",
+      "detail": "Added experience asked, seniority, employment type, industry, how applied and status to every applied job (from each live posting), and shown them in the Applied companies table. Corrected RED Global (Pune staffing contract) and Akron Intel Business Data Analyst (asks 8+ yrs)."
     }
   ]
 }

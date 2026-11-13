@@ -116,9 +116,11 @@
         <td><b>${esc(j.company)}</b>${j.status !== "Applied" ? `<div class="small">${esc(j.status)}</div>` : ""}</td>
         <td>${url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(j.role)}</a>` : esc(j.role)}${j.salary && j.salary !== "Not disclosed" ? `<div class="small">💰 ${esc(j.salary)}</div>` : ""}</td>
         <td>${esc(j.location || "—")}</td>
-        <td>${esc(j.work_type || "")}</td>
+        <td>${esc(j.work_type || "")}${j.employment_type && j.employment_type !== "Full-time" ? `<div class="small">${esc(j.employment_type)}</div>` : ""}</td>
+        <td>${esc(j.experience_required || "—")}</td>
+        <td>${esc(j.industry || "")}${j.seniority ? `<div class="small">${esc(j.seniority)}</div>` : ""}</td>
         <td style="white-space:nowrap">${fmtDate(j.date_applied)}</td>
-        <td>${esc(j.source || "")}</td>
+        <td>${esc(j.applied_via || j.source || "")}${j.application_status ? `<div class="small">${esc(j.application_status)}</div>` : ""}</td>
         <td>${j.fit_score != null ? esc(j.fit_score) : ""}</td>
         <td>${rec ? esc(rec) : ""}${j.outreach ? `<div class="small">${esc(j.outreach)}</div>` : rec ? "" : `<span class="small">None listed</span>`}</td>
       </tr>`;

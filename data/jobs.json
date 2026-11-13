@@ -22,7 +22,14 @@
       ],
       "why_fit": "Explicitly hires India residents for a fully remote role. Strong SQL + validation/reconciliation checks is exactly your Ivue work. Asks 3–6 yrs.",
       "notes": "Applied via Wellfound on 12 Nov 2026 (cover note sent to the recruiter, Melissa Carl).",
-      "cover_note": "Hi Kard team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Support Analyst role stood out because the core of it, strong SQL plus validating and reconciling data so every report matches, is exactly what I do daily.\n\nAt Ivue I added validation and reconciliation checks across pipelines so source data, reports and dashboards always agreed, and I replaced manual spreadsheet pulls with automated SQL/Python jobs. I'm fluent in joins, CTEs and window functions, comfortable in spreadsheets (pivots, XLOOKUP), and I explain findings clearly to non-technical teams. I'm also quick to pick up Databricks-style tooling.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Kard team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Support Analyst role stood out because the core of it, strong SQL plus validating and reconciling data so every report matches, is exactly what I do daily.\n\nAt Ivue I added validation and reconciliation checks across pipelines so source data, reports and dashboards always agreed, and I replaced manual spreadsheet pulls with automated SQL/Python jobs. I'm fluent in joins, CTEs and window functions, comfortable in spreadsheets (pivots, XLOOKUP), and I explain findings clearly to non-technical teams. I'm also quick to pick up Databricks-style tooling.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "3–6 yrs",
+      "seniority": "Mid level",
+      "employment_type": "Full-time",
+      "industry": "Fintech (rewards network)",
+      "applied_via": "Wellfound (Quick Apply with note)",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "doordash-labs-data-analyst",
@@ -492,7 +499,14 @@
       ],
       "why_fit": "Asks 0–1+ yrs, so you're well above the bar. Dashboards, data-quality checks and analysis for an AI research/product team match your Ivue work and your ML/LLM projects.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~16:46 UTC) with the resume saved on LinkedIn (Hari_Prasad_Guntuku_Data_Analyst_Resume.pdf, uploaded 12 Nov). Asks 0–1+ yrs. Remote India.",
-      "cover_note": "Hi Daice Labs team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Junior Analyst role stood out because it sits between data analysis and AI product work, which is exactly where my experience is.\n\nAt Ivue I build dashboards and automated summaries, and I added validation and reconciliation checks so reports always match source data. I've also built RAG and agentic-AI projects, so I'm comfortable helping ML engineers evaluate model outputs with clean, well-tested analysis.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Daice Labs team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Junior Analyst role stood out because it sits between data analysis and AI product work, which is exactly where my experience is.\n\nAt Ivue I build dashboards and automated summaries, and I added validation and reconciliation checks so reports always match source data. I've also built RAG and agentic-AI projects, so I'm comfortable helping ML engineers evaluate model outputs with clean, well-tested analysis.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "0–1+ yrs",
+      "seniority": "Entry level",
+      "employment_type": "Full-time",
+      "industry": "Research Services (AI lab)",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-pmg-analyst",
@@ -587,7 +601,14 @@
       ],
       "why_fit": "SQL-heavy reporting role, remote. Asks 3+ yrs of complex SQL, a small stretch from your 2+ yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~16:49 UTC). Asks 3+ yrs SQL and cloud data warehousing. Remote India.",
-      "cover_note": "Hi MediaKind team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your IT Reporting Analyst role is built around complex SQL and reporting, which is my strongest area.\n\nAt Ivue I write production SQL with CTEs and window functions, build the pipelines behind Power BI dashboards, and add validation so reports always match the source. I've also used BigQuery on real projects (30 queries over 99K orders in my Target Brazil case study).\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi MediaKind team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your IT Reporting Analyst role is built around complex SQL and reporting, which is my strongest area.\n\nAt Ivue I write production SQL with CTEs and window functions, build the pipelines behind Power BI dashboards, and add validation so reports always match the source. I've also used BigQuery on real projects (30 queries over 99K orders in my Target Brazil case study).\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "3+ yrs SQL",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "Technology, Information & Media",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-puffy-data-analyst",
@@ -657,7 +678,14 @@
       "why_fit": "Hyderabad hybrid commercial-analytics role; Power BI + SQL + Excel fits. Asks 3+ yrs of data analysis and sales planning.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~16:52 UTC). Asks 3+ yrs. Hyderabad hybrid.",
       "cover_note": "Hi West Pharmaceutical Services team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Analyst, Commercial Insights role in Hyderabad matches my day-to-day work: SQL, Excel and Power BI dashboards that business teams use to track performance.\n\nAt Ivue I design KPI dashboards with stakeholders, define the metric logic and automate the data behind them. I've also built sales and supplier dashboards in Power BI and Tableau and done forecasting in Python.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
-      "outreach": "No recruiter email in the posting (only an accommodations address)."
+      "outreach": "No recruiter email in the posting (only an accommodations address).",
+      "experience_required": "3 yrs",
+      "seniority": "Not applicable",
+      "employment_type": "Full-time",
+      "industry": "Pharma / Medical equipment manufacturing",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-indium-senior-data-analyst",
@@ -703,7 +731,14 @@
       ],
       "why_fit": "Hyderabad hybrid data analyst role at a large employer; SQL/Python fit, Snowflake/DBT are a stretch (asks 4–6 yrs on those).",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~16:58 UTC). LinkedIn marked you a top applicant.",
-      "cover_note": "Hi Capgemini team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your FBS Data Analyst II role in Hyderabad fits my SQL and Python background, and I am keen to deepen my work on modern cloud stacks like Snowflake and DBT.\n\nAt Ivue I build SQL/Python pipelines and Power BI KPI dashboards with validation checks so reports always match the source, and I have used BigQuery on real projects.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Capgemini team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your FBS Data Analyst II role in Hyderabad fits my SQL and Python background, and I am keen to deepen my work on modern cloud stacks like Snowflake and DBT.\n\nAt Ivue I build SQL/Python pipelines and Power BI KPI dashboards with validation checks so reports always match the source, and I have used BigQuery on real projects.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "4–6 yrs (Snowflake, DBT)",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "IT Services & Consulting",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-akronintel-business-data-analyst",
@@ -713,7 +748,7 @@
       "work_type": "Hybrid (Hyderabad)",
       "link": "https://www.linkedin.com/jobs/view/4485844860/",
       "status": "Applied",
-      "fit_score": 74,
+      "fit_score": 58,
       "date_found": "2026-11-12",
       "date_applied": "2026-11-12",
       "salary": "Not disclosed",
@@ -728,7 +763,14 @@
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:02 UTC). Answered Yes to commuting and hybrid.",
       "cover_note": "Hi Akron Intel team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Business Data Analyst role in Hyderabad matches my day-to-day work: turning business questions into SQL analysis, reports and dashboards.\n\nAt Ivue I work with stakeholders to define metrics, build the SQL/Python pipelines behind them and present findings in Power BI, with validation checks so the numbers are always trusted.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
       "recruiter_email": "vrajesh@akronintel.com",
-      "outreach": "12 Nov 2026: Gmail draft created (subject: Application: Business Data Analyst - Hyderabad, resume v3 attached). Not sent yet: send it from Gmail Drafts."
+      "outreach": "12 Nov 2026: Gmail draft created (subject: Application: Business Data Analyst - Hyderabad, resume v3 attached). Not sent yet: send it from Gmail Drafts.",
+      "experience_required": "8+ yrs",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "Information Services (capital markets)",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-ttec-reporting-senior-analyst",
@@ -751,7 +793,14 @@
       ],
       "why_fit": "Hyderabad reporting-analyst role; SQL reporting and dashboards are your core work.",
       "notes": "Applied via LinkedIn Easy Apply (Lever) on 12 Nov 2026 (~17:05 UTC). Declined consent to be contacted about future openings.",
-      "cover_note": "Hi TTEC Digital team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Reporting Senior Analyst role in Hyderabad is centred on what I do every day: SQL reporting and dashboards that teams rely on.\n\nAt Ivue I build SQL/Python pipelines and Power BI KPI dashboards, automate recurring reports and add validation checks so every number matches the source.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi TTEC Digital team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Reporting Senior Analyst role in Hyderabad is centred on what I do every day: SQL reporting and dashboards that teams rely on.\n\nAt Ivue I build SQL/Python pipelines and Power BI KPI dashboards, automate recurring reports and add validation checks so every number matches the source.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "4+ yrs",
+      "seniority": "Associate",
+      "employment_type": "Full-time",
+      "industry": "Business consulting / IT services",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-teradata-sr-analyst-competitive-pricing",
@@ -774,7 +823,14 @@
       ],
       "why_fit": "Hyderabad pricing-analytics role at a data company; analysis/SQL fit, but asks 5+ yrs (stretch).",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:06 UTC). Asks 5+ yrs.",
-      "cover_note": "Hi Teradata team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Sr. Analyst, Competitive Pricing role caught my eye because pricing and competitive analysis is a natural extension of the analytics I do every day.\n\nAt Ivue I build SQL/Python pipelines and Power BI dashboards that business teams use for decisions, and in case studies I have analysed pricing, demand and customer segments on large datasets.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Teradata team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Sr. Analyst, Competitive Pricing role caught my eye because pricing and competitive analysis is a natural extension of the analytics I do every day.\n\nAt Ivue I build SQL/Python pipelines and Power BI dashboards that business teams use for decisions, and in case studies I have analysed pricing, demand and customer segments on large datasets.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "5+ yrs",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "Software / IT services",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-chubb-business-analyst-pc",
@@ -797,7 +853,14 @@
       ],
       "why_fit": "Big-name employer in Hyderabad; business-analysis + data skills overlap, but asks 6–12 yrs (long shot).",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:10 UTC). Asks 6–12 yrs, so a long shot.",
-      "cover_note": "Hi Chubb team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Business Analyst (P&C) role in Hyderabad caught my eye because it combines business analysis with data, which is how I work every day.\n\nAt Ivue I gather requirements from business teams, define metrics and build the SQL/Python pipelines and Power BI dashboards behind them, presenting clear recommendations to business leads.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Chubb team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Business Analyst (P&C) role in Hyderabad caught my eye because it combines business analysis with data, which is how I work every day.\n\nAt Ivue I gather requirements from business teams, define metrics and build the SQL/Python pipelines and Power BI dashboards behind them, presenting clear recommendations to business leads.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "6–12 yrs",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "Insurance",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-datanest-senior-data-analyst-growth-marketing-4486079918",
@@ -820,7 +883,14 @@
       ],
       "why_fit": "Asks 3–5 yrs. Remote within India (Bengaluru preferred).",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:11 UTC). Asks 3–5 yrs. Remote within India (Bengaluru preferred).",
-      "cover_note": "Hi DataNest team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Senior Data Analyst – Growth & Marketing role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi DataNest team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Senior Data Analyst – Growth & Marketing role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "3–5 yrs",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "Data infrastructure & analytics",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-persiv-technology-business-intelligence-analyst-4484333065",
@@ -843,7 +913,14 @@
       ],
       "why_fit": "Remote BI analyst role; asks ~2 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:15 UTC). Remote BI analyst role; asks ~2 yrs.",
-      "cover_note": "Hi Persiv Technology team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Business Intelligence Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Persiv Technology team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Business Intelligence Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "Not stated",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "Software development",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-appinventiv-data-analyst-4488297488",
@@ -866,7 +943,14 @@
       ],
       "why_fit": "Remote data analyst role; asks ~2 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:17 UTC). Remote data analyst role; asks ~2 yrs.",
-      "cover_note": "Hi Appinventiv team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Appinventiv team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "1–2 yrs",
+      "seniority": "Entry level",
+      "employment_type": "Full-time",
+      "industry": "IT Services & Consulting",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-aspirox-analyst-4489948108",
@@ -889,17 +973,24 @@
       ],
       "why_fit": "Remote business/data analyst role; asks ~2 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:19 UTC). Remote business/data analyst role; asks ~2 yrs.",
-      "cover_note": "Hi Aspirox team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Aspirox team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "Not stated",
+      "seniority": "Associate",
+      "employment_type": "Full-time",
+      "industry": "IT Services & Consulting",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-red-global-process-analyst-4485853245",
       "company": "RED Global",
       "role": "Process Analyst",
-      "location": "India (Remote)",
+      "location": "Pune District, Maharashtra (listed as remote)",
       "work_type": "Remote (India)",
       "link": "https://www.linkedin.com/jobs/view/4485853245/",
       "status": "Applied",
-      "fit_score": 68,
+      "fit_score": 55,
       "date_found": "2026-11-12",
       "date_applied": "2026-11-12",
       "salary": "Not disclosed",
@@ -912,7 +1003,14 @@
       ],
       "why_fit": "Remote process/data analyst role (process mining, data visualisation); asks ~2 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:20 UTC). Remote process/data analyst role (process mining, data visualisation); asks ~2 yrs.",
-      "cover_note": "Hi RED Global team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Process Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi RED Global team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Process Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "Not stated",
+      "seniority": "Associate",
+      "employment_type": "Contract",
+      "industry": "Staffing & recruiting (client role)",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-hrm-counsel-research-analyst-4490345948",
@@ -935,7 +1033,14 @@
       ],
       "why_fit": "Remote research/data analyst role; asks ~2 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:21 UTC). Remote research/data analyst role; asks ~2 yrs.",
-      "cover_note": "Hi HRM Counsel team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Research Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi HRM Counsel team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Research Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "Not stated",
+      "seniority": "Associate",
+      "employment_type": "Full-time",
+      "industry": "HR services",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-data-eminence-market-analyst-4489065546",
@@ -958,7 +1063,14 @@
       ],
       "why_fit": "Remote market/data analyst role; entry level.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:21 UTC). Remote market/data analyst role; entry level.",
-      "cover_note": "Hi Data Eminence team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Market Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Data Eminence team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Market Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "0–2 yrs",
+      "seniority": "Entry level",
+      "employment_type": "Contract",
+      "industry": "Tech / business consulting",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-ansr-sr-analyst-data-analytics-innovation-4486844823",
@@ -981,7 +1093,14 @@
       ],
       "why_fit": "Asks 4+ yrs (stretch). Hyderabad / remote.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:22 UTC). Asks 4+ yrs (stretch). Hyderabad / remote.",
-      "cover_note": "Hi ANSR team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Sr Analyst, Data Analytics & Innovation role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi ANSR team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Sr Analyst, Data Analytics & Innovation role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "4+ yrs",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "Business consulting (GCC builder)",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-htc-global-services-data-analyst-4485358594",
@@ -1004,7 +1123,14 @@
       ],
       "why_fit": "Description asks for a Data Governance Specialist with 7+ yrs, so a long shot.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:23 UTC). Description asks for a Data Governance Specialist with 7+ yrs, so a long shot.",
-      "cover_note": "Hi HTC Global Services team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi HTC Global Services team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "7+ yrs",
+      "seniority": "Associate",
+      "employment_type": "Full-time",
+      "industry": "IT Services & Consulting",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-smc-squared-india-senior-data-analyst-4485468097",
@@ -1027,7 +1153,14 @@
       ],
       "why_fit": "Hyderabad senior data analyst role.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:24 UTC). Hyderabad senior data analyst role.",
-      "cover_note": "Hi SMC Squared India team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Senior Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi SMC Squared India team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Senior Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "5–8 yrs",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "IT Services & Consulting",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "wellfound-raushang4-data-analyst-d2c",
@@ -1054,7 +1187,14 @@
       "cover_note": "Hi Raushang4 Technology team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst (D2C) role is a close match: turning Shopify, ads and logistics data into ROAS, CAC, LTV and repeat-rate decisions is the customer analytics I do.\n\nI have built RFM segmentation, CLV models and cohort retention analysis, and written 30 BigQuery SQL queries over 99K e-commerce orders; at Ivue I automate recurring reports and Power BI dashboards with validation checks.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
       "recruiter_name": "Raushan Kumar (Founder)",
       "recruiter_email": "raushan@raushang4.tech",
-      "outreach": "12 Nov 2026: Gmail draft prepared with resume; send it from Drafts."
+      "outreach": "12 Nov 2026: Gmail draft prepared with resume; send it from Drafts.",
+      "experience_required": "1+ yrs",
+      "seniority": "Entry / Mid",
+      "employment_type": "Full-time",
+      "industry": "D2C analytics & AI agents (1–10 employees)",
+      "applied_via": "Wellfound (Quick Apply with tailored note)",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-vidaxl-data-analyst-4480628183",
@@ -1077,7 +1217,14 @@
       ],
       "why_fit": "Hyderabad hybrid e-commerce data analyst; asks ~3 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:29 UTC). Hyderabad hybrid e-commerce data analyst; asks ~3 yrs.",
-      "cover_note": "Hi vidaXL team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi vidaXL team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "3+ yrs",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "Retail (e-commerce)",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-akron-intel-performance-measurement-analyst-4478250502",
@@ -1100,7 +1247,14 @@
       ],
       "why_fit": "Hyderabad capital-markets performance analytics; asks ~3 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:30 UTC). Hyderabad capital-markets performance analytics; asks ~3 yrs.",
-      "cover_note": "Hi Akron Intel team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Performance Measurement Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Akron Intel team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Performance Measurement Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "3–7 yrs (UK shift)",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "Information Services (capital markets)",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-assetmark-global-wealth-data-analytics-4480491137",
@@ -1123,7 +1277,14 @@
       ],
       "why_fit": "Hyderabad hybrid wealth-management analytics; asks ~5 yrs (stretch).",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:32 UTC). Hyderabad hybrid wealth-management analytics; asks ~5 yrs (stretch).",
-      "cover_note": "Hi AssetMark Global Wealth team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analytics role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi AssetMark Global Wealth team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analytics role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "2–5 yrs",
+      "seniority": "Associate",
+      "employment_type": "Full-time",
+      "industry": "Banking / wealth management",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-capgemini-fbs-apl-sub-matter-expert-iii-power-bi-4462298281",
@@ -1146,7 +1307,14 @@
       ],
       "why_fit": "Hyderabad hybrid Power BI SME role; asks ~5 yrs (stretch).",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:33 UTC). Hyderabad hybrid Power BI SME role; asks ~5 yrs (stretch).",
-      "cover_note": "Hi Capgemini team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your FBS Apl Sub Matter Expert III - Power BI role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Capgemini team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your FBS Apl Sub Matter Expert III - Power BI role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "5+ yrs",
+      "seniority": "Associate",
+      "employment_type": "Full-time",
+      "industry": "IT Services & Consulting",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-siliconpath-law-data-automations-analyst-4484476641",
@@ -1169,7 +1337,14 @@
       ],
       "why_fit": "Hyderabad data + automation analyst; answered JavaScript 0 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:36 UTC). Hyderabad data + automation analyst; answered JavaScript 0 yrs.",
-      "cover_note": "Hi SiliconPath Law team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data & Automations Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi SiliconPath Law team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data & Automations Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "Not stated",
+      "seniority": "Associate",
+      "employment_type": "Full-time",
+      "industry": "Legal services",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-llm-decode-data-analyst-4472529147",
@@ -1192,7 +1367,14 @@
       ],
       "why_fit": "Remote data analyst role; asks ~3 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:37 UTC). Remote data analyst role; asks ~3 yrs.",
-      "cover_note": "Hi LLM Decode team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi LLM Decode team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "1–3 yrs",
+      "seniority": "Entry level",
+      "employment_type": "Full-time",
+      "industry": "E-learning",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-tata-consultancy-services-business-analyst-4480230150",
@@ -1215,7 +1397,14 @@
       ],
       "why_fit": "Hyderabad business analyst role at TCS; asks ~2 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:38 UTC). Hyderabad business analyst role at TCS; asks ~2 yrs.",
-      "cover_note": "Hi Tata Consultancy Services team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Business Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Tata Consultancy Services team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Business Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "Not stated",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "IT Services & Consulting",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-globaldata-plc-senior-pricing-analyst-4482283105",
@@ -1238,7 +1427,14 @@
       ],
       "why_fit": "Hyderabad pricing analytics; asks ~4 yrs (stretch).",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:40 UTC). Hyderabad pricing analytics; asks ~4 yrs (stretch).",
-      "cover_note": "Hi GlobalData Plc team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Senior Pricing Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi GlobalData Plc team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Senior Pricing Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "4–6 yrs",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "Information services",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-tribolatech-inc-sr-data-analyst-4479260828",
@@ -1261,7 +1457,14 @@
       ],
       "why_fit": "Remote; asks 5+ yrs SQL and data governance/banking (stretch). Answered governance 0, profiling/modeling/quality 2, banking 0.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:41 UTC). Remote; asks 5+ yrs SQL and data governance/banking (stretch). Answered governance 0, profiling/modeling/quality 2, banking 0.",
-      "cover_note": "Hi TribolaTech Inc team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Sr. Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi TribolaTech Inc team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Sr. Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "5+ yrs SQL",
+      "seniority": "Mid-Senior",
+      "employment_type": "Full-time",
+      "industry": "IT services & banking",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-nextpower-logistics-analyst-4480865915",
@@ -1284,7 +1487,14 @@
       ],
       "why_fit": "Hyderabad logistics/data analyst; answered freight experience 0 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:43 UTC). Hyderabad logistics/data analyst; answered freight experience 0 yrs.",
-      "cover_note": "Hi Nextpower team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Logistics Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Nextpower team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Logistics Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "Not stated",
+      "seniority": "Not applicable",
+      "employment_type": "Full-time",
+      "industry": "Energy technology",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-aptimized-microsoft-fabric-power-bi-developer-4485540398",
@@ -1307,7 +1517,14 @@
       ],
       "why_fit": "Hyderabad Power BI / Fabric role; asks ~2 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:53 UTC). Hyderabad Power BI / Fabric role; asks ~2 yrs.",
-      "cover_note": "Hi Aptimized team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Microsoft Fabric & Power BI Developer role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Aptimized team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Microsoft Fabric & Power BI Developer role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "5+ yrs",
+      "seniority": "Mid-Senior",
+      "employment_type": "Other",
+      "industry": "IT Services & Consulting",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     },
     {
       "id": "linkedin-yonder-talent-india-revenue-analyst-4479124263",
@@ -1330,7 +1547,14 @@
       ],
       "why_fit": "Remote revenue/pricing analyst for US rental properties; asks ~3 yrs.",
       "notes": "Applied via LinkedIn Easy Apply on 12 Nov 2026 (~17:55 UTC). Remote revenue/pricing analyst for US rental properties; asks ~3 yrs.",
-      "cover_note": "Hi Yonder Talent India team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Revenue Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg"
+      "cover_note": "Hi Yonder Talent India team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Revenue Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards, define metric logic with stakeholders and add validation checks so every report matches the source. In case studies I have run A/B-style tests, cohort, RFM/CLV and regression analysis on datasets of up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "3 yrs",
+      "seniority": "Associate",
+      "employment_type": "Full-time",
+      "industry": "Business consulting (US vacation rentals)",
+      "applied_via": "LinkedIn Easy Apply",
+      "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
+      "application_status": "Submitted, awaiting response"
     }
   ]
 }
