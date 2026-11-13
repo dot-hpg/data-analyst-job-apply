@@ -6629,6 +6629,27 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "liberintechnologies-supervisedlearningqaretailanal",
+      "company": "LIBERIN TECHNOLOGIES",
+      "role": "Supervised Learning QA – Retail Analytics Focus",
+      "location": "India",
+      "work_type": "Remote (India)",
+      "link": "https://wellfound.com/jobs/4821610-supervised-learning-qa-retail-analytics-focus",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "Data analysis",
+        "QA"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:13 IST). Wellfound apply with tailored note.",
+      "cover_note": ""
     }
   ]
 }
