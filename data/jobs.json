@@ -1646,6 +1646,36 @@
       "applied_via": "Wellfound (Quick Apply with tailored note)",
       "resume_sent": "Wellfound profile resume",
       "application_status": "Submitted, awaiting response"
+    },
+    {
+      "id": "wellfound-newton-school-data-analyst",
+      "company": "Newton School",
+      "role": "Data Analyst",
+      "location": "Bengaluru (On-site)",
+      "work_type": "On-site (Bengaluru)",
+      "link": "https://wellfound.com/jobs/4751311-data-analyst",
+      "status": "Applied",
+      "fit_score": 66,
+      "date_found": "2026-11-12",
+      "date_applied": "2026-11-13",
+      "salary": "₹4L – ₹8L",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Python",
+        "Dashboards",
+        "Business metrics"
+      ],
+      "why_fit": "Ed-tech data analyst role (SQL, Python, dashboards, KPIs). Pitched at fresher/0–1 yr, so you exceed the bar, but the listed pay (₹4–8L) is below your 10–12 LPA expectation.",
+      "notes": "Applied via Wellfound on 13 Nov 2026 with a tailored note. Posted ~1 month ago. Pay band below your expectation.",
+      "cover_note": "Hi Newton School team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Data Analyst role matches my SQL, Python and dashboarding work across business teams.\n\nAt Ivue I build SQL/Python pipelines and Power BI KPI dashboards with validation checks, and I have completed 8 analytics case studies on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "Fresher / 0–1 yr",
+      "industry": "Ed-tech (201–500)",
+      "seniority": "Entry level",
+      "employment_type": "Full-time",
+      "applied_via": "Wellfound (Quick Apply with tailored note)",
+      "resume_sent": "Wellfound profile resume",
+      "application_status": "Submitted, awaiting response"
     }
   ]
 }
