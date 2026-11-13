@@ -3179,6 +3179,33 @@
       "employment_type": "Full-time",
       "applied_via": "Infor careers site (self)",
       "application_status": "Submitted, awaiting response"
+    },
+    {
+      "id": "cutshort-vy-systems-mnc-bi-developer",
+      "company": "MNC (via VY Systems)",
+      "role": "BI Developer",
+      "location": "Hyderabad / Bengaluru",
+      "work_type": "On-site",
+      "link": "",
+      "status": "Applied",
+      "fit_score": 68,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "₹2L – ₹12L / yr",
+      "source": "Cutshort",
+      "skills": [
+        "Power BI",
+        "Power Apps",
+        "Power Automate",
+        "Excel",
+        "Executive reporting"
+      ],
+      "why_fit": "Power BI dashboards, data analysis and management reporting match your Power BI and SQL work.",
+      "notes": "Agency job via VY Systems Private Limited for an unnamed MNC. Applied by you on the Cutshort app on 2026-11-13. Asks 5–8 yrs.",
+      "experience_required": "5-8 yrs",
+      "employment_type": "Full-time",
+      "applied_via": "Cutshort app (self)",
+      "application_status": "Submitted, awaiting response"
     }
   ]
 }
