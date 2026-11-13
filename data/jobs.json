@@ -6730,6 +6730,30 @@
           "why_fit": "",
           "notes": "Applied 2026-11-14 via Greenhouse form; 'Thank you for applying' confirmation page (4621320006/confirmation) seen. Screening dropdowns: traffic-quality C, UNIQUE(), 1.1-3 yrs, 5-8 LPA current, 10-18 LPA expected, 0-30 days notice, open to relocating.",
           "experience_required": "1-3 years"
+    },
+    {
+          "id": "teamtailor-etraveli-data-analyst-i",
+          "company": "Etraveli Group",
+          "role": "Data Analyst-I",
+          "location": "Mumbai",
+          "work_type": "On-site",
+          "link": "https://etraveligroup.teamtailor.com/jobs/8483961-data-analyst-i",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-14",
+          "date_applied": "2026-11-14",
+          "salary": "Not disclosed",
+          "source": "LinkedIn via Teamtailor",
+          "skills": [
+                "SQL",
+                "Power BI",
+                "Tableau",
+                "Excel",
+                "Reporting"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-14 via Teamtailor form; 'Thanks for applying - we have received your application' confirmation page (applications/a21cfd08/thanks) seen. Screening answers: min-2y-professional-SQL=Yes (resume summary ties 2+ yrs industry experience to building SQL/Python pipelines), total data experience '2+ years', Excel proficiency=Intermediate, SQL exp=duration-free description (joins/CTEs/window functions), BI tools=Power BI+Tableau, current CTC 600000, expected 1100000, notice 15 days, current location Hyderabad, Mumbai relocation=Yes. Address optional-left blank; optional future-contact consent unchecked; required processing consent checked. Anonymous post-submit survey declined.",
+          "experience_required": "3-5 years"
     }
   ]
 }
