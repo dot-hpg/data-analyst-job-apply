@@ -1585,6 +1585,37 @@
       "applied_via": "LinkedIn Easy Apply",
       "resume_sent": "Hari_Prasad_Guntuku_Data_Analyst_Resume (v3 content)",
       "application_status": "Submitted, awaiting response"
+    },
+    {
+      "id": "wellfound-chaos-engine-labs-growth-analyst",
+      "company": "Chaos Engine Labs",
+      "role": "Growth Analyst",
+      "location": "Bengaluru",
+      "work_type": "On-site (Bengaluru)",
+      "link": "https://wellfound.com/jobs/5007352-growth-analyst",
+      "status": "Applied",
+      "fit_score": 85,
+      "date_found": "2026-11-12",
+      "date_applied": "2026-11-13",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Cohorts & retention",
+        "LTV / ROAS",
+        "A/B testing",
+        "AI tools"
+      ],
+      "why_fit": "AI-native mobile gaming startup (Accel, BITKRAFT backed): own LTV, ROAS and payback, cohorts, A/B tests and AI-agent SQL. No years bar. Matches your cohort/CLV/A-B case studies and AI projects.",
+      "notes": "Applied via Wellfound on 13 Nov 2026 with a tailored note. Posted 6 days ago. Works directly with founders.",
+      "cover_note": "Hi Chaos Engine Labs team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Growth Analyst role is a close match: owning player value (LTV, ROAS, payback), cohorts and A/B tests, with AI agents doing routine SQL that someone must check.\n\nI have built cohort retention, RFM and CLV models, run hypothesis tests, and I build with AI tools daily while validating their outputs.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "No years bar",
+      "industry": "Mobile gaming (AI-native startup, 11–50)",
+      "seniority": "Not stated",
+      "employment_type": "Full-time",
+      "applied_via": "Wellfound (Quick Apply with tailored note)",
+      "resume_sent": "Wellfound profile resume",
+      "application_status": "Submitted, awaiting response"
     }
   ]
 }
