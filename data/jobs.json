@@ -3653,6 +3653,50 @@
       "why_fit": "",
       "notes": "Applied 2026-11-13 via Naukri; confirmation page shown.",
       "experience_required": "1-5 years"
+    },
+    {
+      "id": "naukri-teleperformance-bi-analyst-i",
+      "company": "Teleperformance (TP)",
+      "role": "Business Intelligence Analyst I",
+      "location": "Mohali",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-business-intelligence-analyst-i-teleperformance-global-business-private-limited-mohali",
+      "status": "Applied",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "",
+      "notes": "Applied 2026-11-13 via Naukri; confirmation page shown.",
+      "experience_required": "1-2 years"
+    },
+    {
+      "id": "naukri-tagbin-business-intelligence-analyst",
+      "company": "Tagbin Services",
+      "role": "Business Intelligence Analyst",
+      "location": "Gurugram",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-business-intelligence-analyst-tagbin-services-private-limited-gurugram-india-haryana",
+      "status": "Applied",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "Power BI",
+        "Tableau",
+        "SQL"
+      ],
+      "why_fit": "",
+      "notes": "Applied 2026-11-13 via Naukri; confirmation page shown.",
+      "experience_required": "2-5 years"
     }
   ]
     }
