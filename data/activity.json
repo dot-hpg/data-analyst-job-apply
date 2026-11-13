@@ -294,6 +294,11 @@
       "date": "2026-11-13",
       "action": "Applied: Signant Health (LinkedIn)",
       "detail": "Data Analyst, remote India. fit_score unchanged from the existing entry."
+    },
+    {
+      "date": "2026-11-13",
+      "action": "Tracker sync",
+      "detail": "Added Loyalty Juggernaut (blocked at form), iLenSys (sent, receipt unconfirmed), and closed or mismatched listings (IQVIA, Takeda, Eastman); Ecolab Power Automate role marked Skipped."
     }
   ]
 }
