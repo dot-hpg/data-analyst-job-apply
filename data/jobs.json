@@ -5349,6 +5349,34 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "naukri-indium-software-junior-business-analyst-101126007482",
+      "company": "Indium Software",
+      "role": "Junior Business Analyst",
+      "location": "Hyderabad",
+      "work_type": "On-site",
+      "link": "https://www.naukri.com/job-listings-101126007482",
+      "status": "Applied",
+      "fit_score": 6,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "Business Analysis",
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "why_fit": "Junior BA role; SQL, Excel and reporting fit.",
+      "notes": "Applied via Naukri on 2026-11-13 (~19:09 UTC). Junior BA role; SQL, Excel and reporting fit.",
+      "cover_note": "Hi Indium Software team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Junior Business Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards with validation checks, and in case studies I have run cohort, RFM/CLV, A/B-style and regression analysis on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "0-2 years",
+      "industry": "IT services",
+      "applied_via": "Naukri Apply (profile + recruiter questions)",
+      "application_status": "Submitted, awaiting response",
+      "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
     }
   ]
 }
