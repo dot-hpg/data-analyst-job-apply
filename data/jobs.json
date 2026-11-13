@@ -3232,6 +3232,34 @@
       "employment_type": "Full-time",
       "applied_via": "Cutshort app (self)",
       "application_status": "Submitted, awaiting response"
+    },
+    {
+      "id": "cutshort-webmd-data-scientist",
+      "company": "WebMD",
+      "role": "Data Scientist",
+      "location": "Remote – India (2 PM–11 PM IST)",
+      "work_type": "Remote (India)",
+      "link": "https://cutshort.io/job/Data-Scientist-WebMD-mlC5ZSz0",
+      "status": "Applied",
+      "fit_score": 76,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "₹7L – ₹15L / yr",
+      "source": "Cutshort",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL",
+        "Statistics",
+        "R",
+        "Tableau"
+      ],
+      "why_fit": "Remote analytics role using Python, SQL and statistical testing, which you use in your A/B and regression case studies.",
+      "notes": "Applied by you on Cutshort on 2026-11-13. Posting asks 2–5 yrs in analytics; prefers a Master's.",
+      "experience_required": "2-5 yrs",
+      "employment_type": "Full-time",
+      "applied_via": "Cutshort (self)",
+      "application_status": "Submitted, awaiting response"
     }
   ]
 }
