@@ -3539,6 +3539,32 @@
       "why_fit": "",
       "notes": "Applied 2026-11-13 via Naukri; confirmation page shown.",
       "experience_required": "2-5 years"
+    },
+    {
+      "id": "linkedin-minimed-advanced-analytics-analyst-bi",
+      "company": "MiniMed",
+      "role": "Advanced Analytics Analyst - BI Analyst, Databricks, SQL",
+      "location": "Hyderabad",
+      "work_type": "On-site",
+      "link": "",
+      "status": "Applied",
+      "fit_score": 82,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "LinkedIn",
+      "skills": [
+        "SQL",
+        "Databricks",
+        "BI",
+        "Power BI"
+      ],
+      "why_fit": "Hyderabad BI analyst role built on SQL and Databricks, close to your SQL/Python pipeline and dashboard work.",
+      "notes": "Found on LinkedIn; applied by you on MiniMed's own careers site on 2026-11-13. Diabetes medtech company.",
+      "experience_required": "Not stated",
+      "employment_type": "Full-time",
+      "applied_via": "Company site via LinkedIn (self)",
+      "application_status": "Submitted, awaiting response"
     }
   ]
-    }
+}
