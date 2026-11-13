@@ -3871,6 +3871,34 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "naukri-cushman-wakefield-people-analytics-reporting-analyst-111126931975",
+      "company": "Cushman & Wakefield",
+      "role": "People Analytics & Reporting Analyst",
+      "location": "Hyderabad",
+      "work_type": "On-site (Hyderabad)",
+      "link": "https://www.naukri.com/job-listings-111126931975",
+      "status": "Applied",
+      "fit_score": 66,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "Power BI",
+        "Excel",
+        "SQL",
+        "Reporting"
+      ],
+      "why_fit": "Hyderabad people-analytics reporting role (Power BI/Excel reporting). Asks 3–8 yrs, a stretch.",
+      "notes": "Applied via Naukri on 2026-11-13 (~14:00 UTC). Hyderabad people-analytics reporting role (Power BI/Excel reporting). Asks 3–8 yrs, a stretch.",
+      "cover_note": "Hi Cushman & Wakefield team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your People Analytics & Reporting Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards with validation checks, and in case studies I have run cohort, RFM/CLV, A/B-style and regression analysis on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "3–8 yrs",
+      "industry": "Real estate services",
+      "applied_via": "Naukri Apply (profile + recruiter questions)",
+      "application_status": "Submitted, awaiting response",
+      "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
     }
   ]
 }
