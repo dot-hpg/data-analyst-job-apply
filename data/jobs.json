@@ -5158,6 +5158,54 @@
           "why_fit": "",
           "notes": "Applied 2026-11-13 via Naukri one-click; confirmation page seen.",
           "experience_required": "2-5 years"
+    },
+    {
+          "id": "instahyre-inamo-business-analyst",
+          "company": "Inamo",
+          "role": "Business Analyst",
+          "location": "Bangalore",
+          "work_type": "On-site",
+          "link": "https://www.instahyre.com/candidate/opportunities/",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-13",
+          "date_applied": "2026-11-13",
+          "salary": "Not disclosed",
+          "source": "Instahyre",
+          "skills": [
+                "Excel",
+                "SQL",
+                "Power BI",
+                "Python",
+                "Tableau"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-13 via Instahyre; card removed from recommendations + applied count incremented.",
+          "experience_required": "1-4 years"
+    },
+    {
+          "id": "instahyre-indofast-business-analyst",
+          "company": "Indofast Energy",
+          "role": "Business Analyst",
+          "location": "Bangalore",
+          "work_type": "On-site",
+          "link": "https://www.instahyre.com/candidate/opportunities/",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-13",
+          "date_applied": "2026-11-13",
+          "salary": "Not disclosed",
+          "source": "Instahyre",
+          "skills": [
+                "Excel",
+                "Power BI",
+                "Tableau",
+                "MIS",
+                "Sales Analytics"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-13 via Instahyre; card removed from recommendations + applied count incremented.",
+          "experience_required": "2-5 years"
     }
   ]
 }
