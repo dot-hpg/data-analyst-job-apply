@@ -5135,6 +5135,29 @@
           "why_fit": "",
           "notes": "Applied 2026-11-13 via Naukri one-click; confirmation page seen.",
           "experience_required": "1-6 years"
+    },
+    {
+          "id": "naukri-dreamworth-business-analyst",
+          "company": "Dreamworth Solutions",
+          "role": "Business Analyst",
+          "location": "Mumbai",
+          "work_type": "On-site",
+          "link": "https://www.naukri.com/job-listings-business-analyst-dreamworth-solutions-mumbai-2-to-5-years-121126920304",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-13",
+          "date_applied": "2026-11-13",
+          "salary": "Not disclosed",
+          "source": "Naukri",
+          "skills": [
+                "Data Analysis",
+                "Reporting",
+                "SQL",
+                "Power BI"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-13 via Naukri one-click; confirmation page seen.",
+          "experience_required": "2-5 years"
     }
   ]
 }
