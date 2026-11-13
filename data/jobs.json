@@ -4438,6 +4438,28 @@
       "why_fit": "Weak fit: requires US healthcare RCM (835/837) experience and immediate joiners.",
       "notes": "Applied via LinkedIn on 2026-11-13 (~20:31 IST). Easy Apply. Answered Excel 2, SQL 2, RCM 0, 835/837 0, denial mgmt No, start immediately No.",
       "cover_note": ""
+    },
+    {
+      "id": "iconsultera-dataanalyst",
+      "company": "iConsultera",
+      "role": "Data Analyst",
+      "location": "India",
+      "work_type": "Remote (India)",
+      "link": "https://www.linkedin.com/jobs/search-results/?keywords=data%20analyst&f_WT=2",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "",
+      "source": "LinkedIn",
+      "skills": [
+        "SQL",
+        "Python",
+        "Data analysis"
+      ],
+      "why_fit": "",
+      "notes": "Applied via LinkedIn on 2026-11-13 (~20:32 IST). Easy Apply, no screening questions.",
+      "cover_note": ""
     }
   ]
 }
