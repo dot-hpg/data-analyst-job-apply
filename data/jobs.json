@@ -6754,6 +6754,31 @@
           "why_fit": "",
           "notes": "Applied 2026-11-14 via Teamtailor form; 'Thanks for applying - we have received your application' confirmation page (applications/a21cfd08/thanks) seen. Screening answers: min-2y-professional-SQL=Yes (resume summary ties 2+ yrs industry experience to building SQL/Python pipelines), total data experience '2+ years', Excel proficiency=Intermediate, SQL exp=duration-free description (joins/CTEs/window functions), BI tools=Power BI+Tableau, current CTC 600000, expected 1100000, notice 15 days, current location Hyderabad, Mumbai relocation=Yes. Address optional-left blank; optional future-contact consent unchecked; required processing consent checked. Anonymous post-submit survey declined.",
           "experience_required": "3-5 years"
+    },
+    {
+          "id": "greenhouse-guidepoint-data-analyst-rev-ops",
+          "company": "Guidepoint",
+          "role": "Data Analyst - Revenue Operations & Reporting",
+          "location": "Mumbai",
+          "work_type": "Hybrid",
+          "link": "https://job-boards.greenhouse.io/guidepoint/jobs/8932703002",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-14",
+          "date_applied": "2026-11-14",
+          "salary": "Not disclosed",
+          "source": "Greenhouse",
+          "skills": [
+                "SQL",
+                "Excel",
+                "Power BI",
+                "Tableau",
+                "Reporting",
+                "Analytics"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-14 via Greenhouse form; 'Thank you for applying - your application has been received' confirmation page (8932703002/confirmation) seen. Answers: RTW-India Yes, currently-Mumbai No (truthful; no relocation question on form), remuneration 1100000 INR, availability '15-day notice period; joining date to be agreed', Degree Bachelor's Degree, Discipline Architecture (literal options), no references supplied (attestation scope limited to provided references; resume verified reference-free).",
+          "experience_required": "2+ years"
     }
   ]
 }
