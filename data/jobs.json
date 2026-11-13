@@ -5112,6 +5112,29 @@
           "why_fit": "",
           "notes": "Applied 2026-11-13 via employer careers portal; confirmation banner shown.",
           "experience_required": "2-5 years"
+    },
+    {
+          "id": "naukri-nvecta-retention-marketing-analyst",
+          "company": "Nvecta",
+          "role": "Analytics & Retention Marketing Analyst",
+          "location": "Mumbai",
+          "work_type": "On-site",
+          "link": "https://www.naukri.com/job-listings-analytics-retention-marketing-analyst-nvecta-mumbai-1-to-6-years-111126012815",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-13",
+          "date_applied": "2026-11-13",
+          "salary": "Not disclosed",
+          "source": "Naukri",
+          "skills": [
+                "Dashboards",
+                "Cohort Analysis",
+                "Segmentation",
+                "Retention Analytics"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-13 via Naukri one-click; confirmation page seen.",
+          "experience_required": "1-6 years"
     }
   ]
 }
