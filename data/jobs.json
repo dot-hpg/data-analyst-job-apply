@@ -6706,6 +6706,30 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+          "id": "greenhouse-headout-product-analyst",
+          "company": "Headout",
+          "role": "Product Analyst",
+          "location": "Bengaluru",
+          "work_type": "On-site",
+          "link": "https://job-boards.greenhouse.io/headoutcareers/jobs/4621320006",
+          "status": "Applied",
+          "fit_score": null,
+          "date_found": "2026-11-14",
+          "date_applied": "2026-11-14",
+          "salary": "Not disclosed",
+          "source": "LinkedIn via Greenhouse",
+          "skills": [
+                "SQL",
+                "Python",
+                "Tableau",
+                "Power BI",
+                "Statistics"
+          ],
+          "why_fit": "",
+          "notes": "Applied 2026-11-14 via Greenhouse form; 'Thank you for applying' confirmation page (4621320006/confirmation) seen. Screening dropdowns: traffic-quality C, UNIQUE(), 1.1-3 yrs, 5-8 LPA current, 10-18 LPA expected, 0-30 days notice, open to relocating.",
+          "experience_required": "1-3 years"
     }
   ]
 }
