@@ -299,6 +299,11 @@
       "date": "2026-11-13",
       "action": "Tracker sync",
       "detail": "Added Loyalty Juggernaut (blocked at form), iLenSys (sent, receipt unconfirmed), and closed or mismatched listings (IQVIA, Takeda, Eastman); Ecolab Power Automate role marked Skipped."
+    },
+    {
+      "date": "2026-11-13",
+      "action": "Reconciled with Hari's device export",
+      "detail": "Marked Applied on Hari's report: 12 roles he had already updated on his device plus the 20 roles in his queue (application dates not recorded for the 20). Integrate set to Skipped per his device. A duplicate Fidelity entry in his export was not added."
     }
   ]
 }
