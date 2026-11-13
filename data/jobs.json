@@ -6102,6 +6102,71 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "pixory-productanalyticsengineermixpan",
+      "company": "Pixory",
+      "role": "Product Analytics Engineer (Mixpanel, SQL, AI)",
+      "location": "India",
+      "work_type": "Remote (India)",
+      "link": "https://wellfound.com/jobs",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "$35k-$60k",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Mixpanel",
+        "Product analytics"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:03 IST). Wellfound apply with tailored note (asks 4+ yrs).",
+      "cover_note": ""
+    },
+    {
+      "id": "bentpixels-adoperationsdataanalystapac",
+      "company": "Bent Pixels",
+      "role": "Ad Operations & Data Analyst (APAC)",
+      "location": "Remote (APAC incl. India)",
+      "work_type": "Remote (APAC)",
+      "link": "https://wellfound.com/jobs",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "Data analysis",
+        "Ad ops"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:03 IST). Wellfound apply with tailored note (asks 2 yrs).",
+      "cover_note": ""
+    },
+    {
+      "id": "yipitdata-dataqaassociate",
+      "company": "YipitData",
+      "role": "Data QA Associate",
+      "location": "India",
+      "work_type": "Remote (India)",
+      "link": "https://wellfound.com/jobs",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Python",
+        "Data validation"
+      ],
+      "why_fit": "",
+      "notes": "Applied via Wellfound on 2026-11-14 (~01:03 IST). Wellfound apply with tailored note.",
+      "cover_note": ""
     }
   ]
 }
