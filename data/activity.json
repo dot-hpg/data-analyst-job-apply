@@ -229,6 +229,36 @@
       "date": "2026-11-13",
       "action": "Applied: Amgen (Instahyre)",
       "detail": "Associate - Field Reporting, Hyderabad, 1-3 yrs. fit_score left empty on purpose."
+    },
+    {
+      "date": "2026-11-13",
+      "action": "Full details for all 32 applied companies",
+      "detail": "Added experience asked, seniority, employment type, industry, how applied and status to every applied job (from each live posting), and shown them in the Applied companies table. Corrected RED Global (Pune staffing contract) and Akron Intel Business Data Analyst (asks 8+ yrs)."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Tech Mahindra",
+      "detail": "LinkedIn Easy Apply: Power BI & Macro/VBA Developer (Hyderabad)."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Chaos Engine Labs (Wellfound)",
+      "detail": "Growth Analyst, Bengaluru. 34 submitted."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Velocity (Wellfound)",
+      "detail": "Data Analyst, Bengaluru (₹18–25L). 35 submitted."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Newton School (Wellfound)",
+      "detail": "Data Analyst, Bengaluru (₹4–8L). 36 submitted."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: DoableClaw (Wellfound)",
+      "detail": "Business Analyst (Product) (Bengaluru / Remote)."
     }
   ]
 }

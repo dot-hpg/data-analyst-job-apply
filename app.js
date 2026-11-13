@@ -25,7 +25,7 @@
     ["greenhouse", "Greenhouse"], ["ashby", "Ashby"], ["lever", "Lever"], ["weekday", "Weekday"],
     ["work at a startup", "YC Startups"], ["yc ", "YC Startups"], ["foundit", "Foundit"], ["indeed", "Indeed"],
     ["cutshort", "Cutshort"], ["hirist", "Hirist"], ["iimjobs", "iimjobs"], ["glassdoor", "Glassdoor"],
-    ["workday", "Workday"], ["email", "Email"], ["referral", "Referral"], ["careers", "Company site"], ["company", "Company site"],
+    ["workday", "Workday"], ["whatsapp", "WhatsApp"], ["instinct", "Instinct"], ["email", "Email"], ["referral", "Referral"], ["careers", "Company site"], ["company", "Company site"],
   ];
 
   // ================= Helpers =================
