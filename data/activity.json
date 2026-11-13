@@ -1,0 +1,199 @@
+{
+  "activity": [
+    {
+      "date": "2026-11-11",
+      "action": "Built tracker website",
+      "detail": "Created the tracker site and GitHub Pages / Vercel-ready setup."
+    },
+    {
+      "date": "2026-11-11",
+      "action": "Searched job boards",
+      "detail": "Scanned Remote Rocketship, Himalayas, Cutshort, Built In, Weekday, Remotive, Jobicy, WeWorkRemotely and Greenhouse boards; collected ~45 remote-India and Hyderabad openings."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Read resume v3",
+      "detail": "Matched against data-analyst/v3 resume (SQL, Python, Power BI, Tableau, stats, 2+ yrs)."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Verified job descriptions",
+      "detail": "Opened ~25 postings to check they are open, remote from India, and the experience ask; dropped on-site, 5+ yr, and off-profile roles."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Picked top 10",
+      "detail": "Ranked by fit and interview odds; status set to 'Ready to apply'. Backups and skipped roles kept with reasons."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Re-verified apply links",
+      "detail": "Checked each top-10 job at the employer's own site. Handshake (US-hours senior role) and Ruder Finn (no live posting) dropped; Verizon and Gainsight (Hyderabad) added; Kard moved to its live Wellfound posting, Peakflo to YC Work at a Startup."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Wrote tailored cover notes",
+      "detail": "One short cover note per top-10 job, shown on each card with a Copy button."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Started applying from your PC",
+      "detail": "Checked all 10 forms. DoorDash and Peakflo closed. Kard, Photon, Pontoon and Verizon need your account sign-in; Integrate needs your Aadhaar details. Weekday, Gainsight and LG Ad Solutions ready to submit once you confirm salary and notice."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied to Kard; 3 more forms filled",
+      "detail": "Kard submitted via Wellfound. Pontoon filled (needs the Cloudflare check). Weekday, Gainsight and LG filled except salary/resume fields. Photon needs your home address; Verizon blocks automated browsing."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Added 10 LinkedIn jobs",
+      "detail": "Remote India / Hyderabad only: Signant Health, Daice Labs, Precision Medicine Group x2, Precision AQ, MediaKind, Puffy, HighRadius, West Pharma, Indium. 8 are Easy Apply, 2 apply on the company site. Cover notes added; applying once the v3 resume is on LinkedIn."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied to 3 LinkedIn jobs",
+      "detail": "Submitted: Daice Labs, MediaKind, West Pharmaceutical. Waiting on salary/CTC fields (drafts saved on LinkedIn): Signant Health, Precision Medicine Group x2, Precision AQ, HighRadius. Puffy filled but needs you to start its 45-min assessment."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Capgemini, Akron Intel",
+      "detail": "LinkedIn Easy Apply: Capgemini FBS Data Analyst II (Hyderabad) and Akron Intel Business Data Analyst (Hyderabad). 7 submitted today."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: TTEC Digital",
+      "detail": "LinkedIn Easy Apply: Reporting Senior Analyst (Hyderabad). 8 submitted today."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Teradata",
+      "detail": "LinkedIn Easy Apply: Sr. Analyst, Competitive Pricing (Hyderabad). 9 submitted today."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Chubb",
+      "detail": "LinkedIn Easy Apply: Business Analyst – P&C (Hyderabad). 10 submitted today."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: DataNest",
+      "detail": "LinkedIn Easy Apply: Senior Data Analyst – Growth & Marketing (India (Remote))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Recruiter outreach",
+      "detail": "Scanned the 9 LinkedIn applications for printed recruiter emails: only Akron Intel lists one (vrajesh@akronintel.com). A Gmail draft with your resume is ready in Drafts for you to send."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Persiv Technology",
+      "detail": "LinkedIn Easy Apply: Business Intelligence Analyst (India (Remote))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Appinventiv",
+      "detail": "LinkedIn Easy Apply: Data Analyst (India (Remote))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Aspirox",
+      "detail": "LinkedIn Easy Apply: Analyst (India (Remote))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: RED Global",
+      "detail": "LinkedIn Easy Apply: Process Analyst (India (Remote))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: HRM Counsel",
+      "detail": "LinkedIn Easy Apply: Research Analyst (India (Remote))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Data Eminence",
+      "detail": "LinkedIn Easy Apply: Market Analyst (India (Remote))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: ANSR",
+      "detail": "LinkedIn Easy Apply: Sr Analyst, Data Analytics & Innovation (Hyderabad (Remote))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: HTC Global Services",
+      "detail": "LinkedIn Easy Apply: Data Analyst (Hyderabad)."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: SMC Squared India",
+      "detail": "LinkedIn Easy Apply: Senior Data Analyst (Hyderabad)."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Raushang4 Technology (Wellfound)",
+      "detail": "Data Analyst (D2C), remote India. Recruiter email printed in the posting: raushan@raushang4.tech (Gmail draft prepared)."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: vidaXL",
+      "detail": "LinkedIn Easy Apply: Data Analyst (Hyderabad (Hybrid))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Akron Intel",
+      "detail": "LinkedIn Easy Apply: Performance Measurement Analyst (Hyderabad (On-site))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: AssetMark Global Wealth",
+      "detail": "LinkedIn Easy Apply: Data Analytics (Hyderabad (Hybrid))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Capgemini",
+      "detail": "LinkedIn Easy Apply: FBS Apl Sub Matter Expert III - Power BI (Hyderabad (Hybrid))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: SiliconPath Law",
+      "detail": "LinkedIn Easy Apply: Data & Automations Analyst (Hyderabad (On-site))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: LLM Decode",
+      "detail": "LinkedIn Easy Apply: Data Analyst (India (Remote))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Tata Consultancy Services",
+      "detail": "LinkedIn Easy Apply: Business Analyst (Hyderabad (On-site))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: GlobalData Plc",
+      "detail": "LinkedIn Easy Apply: Senior Pricing Analyst (Hyderabad (On-site))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: TribolaTech Inc",
+      "detail": "LinkedIn Easy Apply: Sr. Data Analyst (India (Remote))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Nextpower",
+      "detail": "LinkedIn Easy Apply: Logistics Analyst (Hyderabad (On-site))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Aptimized",
+      "detail": "LinkedIn Easy Apply: Microsoft Fabric & Power BI Developer (Hyderabad (On-site))."
+    },
+    {
+      "date": "2026-11-12",
+      "action": "Applied: Yonder Talent India",
+      "detail": "LinkedIn Easy Apply: Revenue Analyst (India (Remote))."
+    }
+  ]
+}

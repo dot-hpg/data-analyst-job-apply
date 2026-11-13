@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Job Application Tracker</title>
+  <meta name="description" content="Tracker for every data analyst job found and applied to: company, role, location, link, dates, status and notes.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <div>
+        <h1>Data Analyst Job Tracker</h1>
+        <p class="sub">Remote-first search · India / worldwide remote, Hyderabad fallback</p>
+      </div>
+      <div class="top-actions">
+        <button id="addBtn" class="btn primary" type="button">+ Add job</button>
+        <button id="exportJson" class="btn" type="button" title="Download jobs.json with your local edits">Export JSON</button>
+        <button id="exportCsv" class="btn" type="button">Export CSV</button>
+        <button id="themeBtn" class="btn icon" type="button" aria-label="Toggle theme">◐</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="stats" id="stats" aria-label="Summary"></section>
+
+    <section class="pipeline" id="pipeline" aria-label="Status pipeline"></section>
+
+    <section class="controls" aria-label="Filters">
+      <input id="q" type="search" placeholder="Search company, role, skills, notes…" aria-label="Search">
+      <select id="fStatus" aria-label="Filter by status"><option value="">All statuses</option></select>
+      <select id="fWork" aria-label="Filter by work type">
+        <option value="">All work types</option>
+        <option>Remote (Worldwide)</option>
+        <option>Remote (India)</option>
+        <option>Remote (APAC)</option>
+        <option>Hybrid</option>
+        <option>On-site</option>
+      </select>
+      <select id="sort" aria-label="Sort">
+        <option value="fit">Sort: best fit</option>
+        <option value="found">Sort: newest found</option>
+        <option value="applied">Sort: newest applied</option>
+        <option value="company">Sort: company A–Z</option>
+      </select>
+    </section>
+
+    <p class="local-note" id="localNote" hidden>
+      You have local edits saved in this browser. <button id="resetLocal" class="link" type="button">Discard them</button>
+      or use <b>Export JSON</b> and commit it to <code>data/jobs.json</code> to make them permanent.
+    </p>
+
+    <section id="list" class="list" aria-live="polite"></section>
+    <p id="empty" class="empty" hidden>No jobs match these filters.</p>
+
+    <section class="activity" aria-labelledby="actTitle">
+      <h2 id="actTitle">Activity log</h2>
+      <p class="sub">Every step taken in the search, newest first.</p>
+      <ol id="activity"></ol>
+    </section>
+  </main>
+
+  <dialog id="editor">
+    <form method="dialog" id="editForm">
+      <h2 id="editTitle">Edit job</h2>
+      <div class="grid">
+        <label>Company<input name="company" required></label>
+        <label>Role<input name="role" required></label>
+        <label>Location<input name="location" placeholder="e.g. Remote – India"></label>
+        <label>Work type
+          <select name="work_type">
+            <option>Remote (Worldwide)</option><option>Remote (India)</option><option>Remote (APAC)</option>
+            <option>Hybrid</option><option>On-site</option>
+          </select>
+        </label>
+        <label class="span2">Job link<input name="link" type="url"></label>
+        <label>Status<select name="status"></select></label>
+        <label>Fit score (0–100)<input name="fit_score" type="number" min="0" max="100"></label>
+        <label>Date found<input name="date_found" type="date"></label>
+        <label>Date applied<input name="date_applied" type="date"></label>
+        <label>Salary<input name="salary"></label>
+        <label>Source<input name="source" placeholder="e.g. Company careers, LinkedIn"></label>
+        <label class="span2">Skills (comma separated)<input name="skills"></label>
+        <label class="span2">Why it fits<textarea name="why_fit" rows="2"></textarea></label>
+        <label class="span2">Notes<textarea name="notes" rows="3"></textarea></label>
+      </div>
+      <div class="dlg-actions">
+        <button value="delete" id="delBtn" class="btn danger" type="submit">Delete</button>
+        <span class="spacer"></span>
+        <button value="cancel" class="btn" type="submit" formnovalidate>Cancel</button>
+        <button value="save" class="btn primary" type="submit">Save</button>
+      </div>
+    </form>
+  </dialog>
+
+  <footer class="wrap foot">
+    Data lives in <code>data/jobs.json</code>. Edits made here are kept in your browser until you export and commit them.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
