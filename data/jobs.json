@@ -4582,6 +4582,27 @@
       "applied_via": "LinkedIn Easy Apply",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "kagool-leadpowerbideveloper",
+      "company": "Kagool",
+      "role": "Lead Power BI Developer",
+      "location": "India",
+      "work_type": "Remote (India)",
+      "link": "https://www.linkedin.com/jobs/search-results/?keywords=data%20analyst&f_WT=2",
+      "status": "Applied",
+      "fit_score": 50,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "",
+      "source": "LinkedIn",
+      "skills": [
+        "Power BI",
+        "DAX"
+      ],
+      "why_fit": "Lead title is a stretch at 2 yrs.",
+      "notes": "Applied via LinkedIn on 2026-11-13 (~20:37 IST). Easy Apply. Power BI 2 yrs; start immediately: No.",
+      "cover_note": ""
     }
   ]
 }
