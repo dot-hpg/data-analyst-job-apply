@@ -2413,7 +2413,7 @@
       "location": "Bengaluru",
       "work_type": "On-site",
       "link": "https://builtin.com/job/data-analyst/12063878",
-      "status": "Shortlisted",
+      "status": "Skipped",
       "fit_score": 80,
       "date_found": "2026-11-13",
       "date_applied": "",
@@ -2426,7 +2426,7 @@
         "SQL"
       ],
       "why_fit": "Matches your SQL, Python and Power BI reporting experience; in Hyderabad/Bengaluru or remote India.",
-      "notes": "Found 2026-11-13; queued for the PC session to apply.",
+      "notes": "Found 2026-11-13; queued for the PC session to apply. Skipped 2026-11-13: Power Automate and ADF ETL are stated must-haves.",
       "experience_required": "Mid level"
     },
     {
@@ -2670,6 +2670,111 @@
       ],
       "why_fit": "",
       "notes": "Applied 2026-11-13 12:54 IST via Instahyre one-click Apply. Listing 3-6 yrs: shopper KPIs, dashboards, SQL.",
+      "cover_note": ""
+    },
+    {
+      "id": "task-loyalty-juggernaut-business-intelligence-analyst",
+      "company": "Loyalty Juggernaut",
+      "role": "Business Intelligence Analyst",
+      "location": "Hyderabad",
+      "work_type": "On-site",
+      "link": "https://lji.bamboohr.com/careers/208",
+      "status": "Ready to apply",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "",
+      "salary": "",
+      "source": "LinkedIn / company careers",
+      "skills": [
+        "SQL",
+        "Power BI",
+        "Tableau"
+      ],
+      "why_fit": "",
+      "notes": "13 Nov 2026: company form is open (0-3 yrs) but its application needs a human-verification puzzle and a street address, so it was not submitted. Needs a manual application.",
+      "cover_note": ""
+    },
+    {
+      "id": "task-ilensys-data-analyst-il94",
+      "company": "iLenSys Technologies",
+      "role": "Data Analyst",
+      "location": "Hyderabad",
+      "work_type": "On-site",
+      "link": "https://www.ilensys.com/job-details/94",
+      "status": "Ready to apply",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "",
+      "salary": "",
+      "source": "Company careers page",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "why_fit": "",
+      "notes": "13 Nov 2026 15:28 IST: company form was submitted but the page never confirmed receipt and no acknowledgement arrived, so this is not counted as Applied.",
+      "cover_note": ""
+    },
+    {
+      "id": "task-iqvia-advanced-sql-excel-analyst-r1554039",
+      "company": "IQVIA",
+      "role": "Advanced SQL & Excel Analyst",
+      "location": "Bangalore",
+      "work_type": "On-site",
+      "link": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Advanced-SQL---Excel-Analyst_R1554039",
+      "status": "Skipped",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "",
+      "salary": "",
+      "source": "Aggregator listing",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "why_fit": "",
+      "notes": "Closed or removed: the employer's careers page returned 'page does not exist' on 2026-11-13.",
+      "cover_note": ""
+    },
+    {
+      "id": "task-takeda-analyst-ii-commercial-analytics-r0192004",
+      "company": "Takeda",
+      "role": "Analyst II, Commercial Analytics",
+      "location": "",
+      "work_type": "",
+      "link": "https://takeda.wd502.myworkdayjobs.com/en-US/External/job/Analyst-II---Commercial-Analytics_R0192004",
+      "status": "Skipped",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "",
+      "salary": "",
+      "source": "Aggregator listing",
+      "skills": [],
+      "why_fit": "",
+      "notes": "Closed or removed: the employer's careers page returned 'page does not exist' on 2026-11-13.",
+      "cover_note": ""
+    },
+    {
+      "id": "task-eastman-bi-analyst-ii-1436672600",
+      "company": "Eastman",
+      "role": "Business Intelligence Analyst II",
+      "location": "Hyderabad",
+      "work_type": "On-site",
+      "link": "https://jobs.eastman.com/job/Hyderabad-Business-Intelligence-Analyst-II-500-008/1436672600/",
+      "status": "Skipped",
+      "fit_score": null,
+      "date_found": "2026-11-13",
+      "date_applied": "",
+      "salary": "",
+      "source": "Company careers page",
+      "skills": [
+        "SQL",
+        "Power BI"
+      ],
+      "why_fit": "",
+      "notes": "Skipped 2026-11-13: asks 4-8 yrs and mandatory ADF/SSIS pipeline and data-warehouse experience.",
       "cover_note": ""
     }
   ]
