@@ -3731,6 +3731,34 @@
       "applied_via": "Naukri Apply (profile + recruiter questions)",
       "application_status": "Submitted, awaiting response",
       "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
+    },
+    {
+      "id": "naukri-tradeweb-environmental-data-analyst-161026923045",
+      "company": "Tradeweb",
+      "role": "Environmental Data Analyst",
+      "location": "Bengaluru",
+      "work_type": "On-site (Bengaluru)",
+      "link": "https://www.naukri.com/job-listings-161026923045",
+      "status": "Applied",
+      "fit_score": 62,
+      "date_found": "2026-11-13",
+      "date_applied": "2026-11-13",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Data quality",
+        "ESG data"
+      ],
+      "why_fit": "Bengaluru environmental (ESG) data analyst at a fintech marketplace; SQL/Excel data-quality work fits.",
+      "notes": "Applied via Naukri on 2026-11-13 (~13:53 UTC). Bengaluru environmental (ESG) data analyst at a fintech marketplace; SQL/Excel data-quality work fits.",
+      "cover_note": "Hi Tradeweb team,\n\nI'm a Data Analyst in Hyderabad with 2+ years at Ivue Technologies, where I build SQL/Python pipelines and Power BI KPI dashboards that business teams rely on. Your Environmental Data Analyst role fits my background: 2+ years of SQL, Python and Power BI work that business teams rely on.\n\nAt Ivue I build SQL/Python pipelines and KPI dashboards with validation checks, and in case studies I have run cohort, RFM/CLV, A/B-style and regression analysis on up to 550K records.\n\nI'd welcome a quick call to show how I can contribute.\n\nBest regards,\nHari Prasad Guntuku\nconnect.hpg@gmail.com · +91 8555081508\nPortfolio: hariprasad-data-analyst.vercel.app · github.com/dot-hpg",
+      "experience_required": "1–3 yrs",
+      "industry": "Financial markets / fintech",
+      "applied_via": "Naukri Apply (profile + recruiter questions)",
+      "application_status": "Submitted, awaiting response",
+      "form_answers": "Current CTC 6 LPA, expected 11 LPA, notice 15 days (as provided by Hari)"
     }
   ]
 }
