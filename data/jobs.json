@@ -2682,7 +2682,7 @@
       "status": "Applied",
       "fit_score": null,
       "date_found": "2026-11-13",
-      "date_applied": "",
+      "date_applied": "2026-11-14",
       "salary": "",
       "source": "LinkedIn / company careers",
       "skills": [
@@ -2691,7 +2691,7 @@
         "Tableau"
       ],
       "why_fit": "",
-      "notes": "13 Nov 2026: company form is open (0-3 yrs) but its application needs a human-verification puzzle and a street address, so it was not submitted. Needs a manual application. | Marked Applied by Hari, 13 Nov 2026 (user-reported; application date not recorded). | Superseded: earlier wording above is history and predates Hari's 13 Nov report that this application was completed; it does not confirm any individual form answers.",
+      "notes": "13 Nov 2026: company form is open (0-3 yrs) but its application needs a human-verification puzzle and a street address, so it was not submitted. Needs a manual application. | Marked Applied by Hari, 13 Nov 2026 (user-reported; application date not recorded). | Superseded: earlier wording above is history and predates Hari's 13 Nov report that this application was completed; it does not confirm any individual form answers. | Applied via Instahyre on 2026-11-14 (~10:56 IST). Instahyre one-click apply",
       "cover_note": ""
     },
     {
@@ -18281,6 +18281,60 @@
       "skills": "SQL, Python, Power BI, Excel",
       "why_fit": "",
       "notes": "Applied via Instahyre on 2026-11-14 (~10:55 IST). Instahyre one-click apply",
+      "cover_note": ""
+    },
+    {
+      "id": "carmeuse-businessanalysthexagoneam",
+      "company": "Carmeuse",
+      "role": "Business Analyst (Hexagon EAM)",
+      "location": "Bangalore",
+      "work_type": "Onsite",
+      "link": "https://www.instahyre.com/candidate/opportunities/",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Instahyre",
+      "skills": "SQL, Python, Power BI, Excel",
+      "why_fit": "",
+      "notes": "Applied via Instahyre on 2026-11-14 (~10:56 IST). Instahyre one-click apply",
+      "cover_note": ""
+    },
+    {
+      "id": "mufg-senioranalystriskmanagement",
+      "company": "MUFG",
+      "role": "Senior Analyst - Risk Management",
+      "location": "Bangalore",
+      "work_type": "Onsite",
+      "link": "https://www.instahyre.com/candidate/opportunities/",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Instahyre",
+      "skills": "SQL, Python, Power BI, Excel",
+      "why_fit": "",
+      "notes": "Applied via Instahyre on 2026-11-14 (~10:56 IST). Instahyre one-click apply",
+      "cover_note": ""
+    },
+    {
+      "id": "mufg-analystglobalmarketoperations",
+      "company": "MUFG",
+      "role": "Analyst - Global Market Operations",
+      "location": "Bangalore",
+      "work_type": "Onsite",
+      "link": "https://www.instahyre.com/candidate/opportunities/",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "Instahyre",
+      "skills": "SQL, Python, Power BI, Excel",
+      "why_fit": "",
+      "notes": "Applied via Instahyre on 2026-11-14 (~10:56 IST). Instahyre one-click apply",
       "cover_note": ""
     }
   ]
