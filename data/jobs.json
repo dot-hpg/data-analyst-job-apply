@@ -12364,15 +12364,15 @@
       "location": "Chennai",
       "work_type": "",
       "link": "https://www.linkedin.com/jobs/view/4487454587",
-      "status": "Excluded",
+      "status": "Applied",
       "fit_score": null,
       "date_found": "2026-11-14",
-      "date_applied": null,
+      "date_applied": "2026-11-14",
       "salary": "Not disclosed",
       "source": "LinkedIn",
       "skills": [],
       "why_fit": "",
-      "notes": "Excluded 14 Nov: mandatory domain requirement outside profile.",
+      "notes": "Excluded 14 Nov: mandatory domain requirement outside profile. | Applied via LinkedIn on 2026-11-14 (~14:42 IST). LinkedIn Easy Apply (auto-filled screening)",
       "experience_required": ""
     },
     {
@@ -21737,6 +21737,24 @@
       "skills": "SQL, Python, Power BI, Excel",
       "why_fit": "",
       "notes": "Applied via LinkedIn on 2026-11-14 (~14:36 IST). LinkedIn Easy Apply (auto-filled screening)",
+      "cover_note": ""
+    },
+    {
+      "id": "sia-seniordataanalyst",
+      "company": "Sia",
+      "role": "Senior Data Analyst",
+      "location": "Mumbai (On-site)",
+      "work_type": "Onsite",
+      "link": "https://www.linkedin.com/jobs/search-results/",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "LinkedIn",
+      "skills": "SQL, Python, Power BI, Excel",
+      "why_fit": "",
+      "notes": "Applied via LinkedIn on 2026-11-14 (~14:42 IST). LinkedIn Easy Apply (auto-filled screening)",
       "cover_note": ""
     }
   ]
