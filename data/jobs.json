@@ -7754,15 +7754,15 @@
       "location": "Bengaluru",
       "work_type": "On-site",
       "link": "",
-      "status": "Excluded",
+      "status": "Applied",
       "fit_score": null,
       "date_found": "2026-11-14",
-      "date_applied": null,
+      "date_applied": "2026-11-14",
       "salary": "Not disclosed",
       "source": "LinkedIn",
       "skills": [],
       "why_fit": "",
-      "notes": "Excluded 14 Nov: experience requirement above current fit.",
+      "notes": "Excluded 14 Nov: experience requirement above current fit. | Applied via LinkedIn on 2026-11-14 (~06:43 IST). Easy Apply. CTC 6/11 LPA, join 15 days, SQL 2, Power BI 2. Asks 7+ yrs.",
       "experience_required": ""
     },
     {
@@ -14092,6 +14092,26 @@
       ],
       "why_fit": "",
       "notes": "Applied via LinkedIn on 2026-11-14 (~06:39 IST). Easy Apply. Databases 2, SQL 2, Bachelor degree Yes.",
+      "cover_note": ""
+    },
+    {
+      "id": "hrmcounsel-dataanalyst",
+      "company": "HRM Counsel",
+      "role": "Data Analyst",
+      "location": "India",
+      "work_type": "Remote (India)",
+      "link": "https://www.linkedin.com/jobs/search/?keywords=data%20analyst&f_AL=true",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-14",
+      "date_applied": "2026-11-14",
+      "salary": "",
+      "source": "LinkedIn",
+      "skills": [
+        "Data analysis"
+      ],
+      "why_fit": "",
+      "notes": "Applied via LinkedIn on 2026-11-14 (~06:43 IST). Easy Apply, no questions.",
       "cover_note": ""
     }
   ]
