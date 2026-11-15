@@ -24144,6 +24144,36 @@
       "applied_via": "Naukri",
       "resume_sent": true,
       "application_status": "Applied"
+    },
+    {
+      "id": "naukri-platinus-technologies-business-analyst-131126922550",
+      "company": "Platinus Technologies",
+      "role": "Business Analyst",
+      "location": "Hyderabad",
+      "work_type": "",
+      "link": "https://www.naukri.com/job-listings-business-analyst-platinus-technologies-private-limited-hyderabad-8-to-13-years-131126922550",
+      "status": "Applied",
+      "fit_score": 6,
+      "date_found": "2026-11-15",
+      "date_applied": "2026-11-15",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Business Analyst in Hyderabad; SQL, Python and Power BI fit.",
+      "notes": "Applied via Naukri on 2026-11-15 (Claude session).",
+      "cover_note": "",
+      "experience_required": "8-13 yrs",
+      "seniority": "",
+      "employment_type": "Full-time",
+      "industry": "",
+      "applied_via": "Naukri",
+      "resume_sent": true,
+      "application_status": "Applied"
     }
   ]
 }
