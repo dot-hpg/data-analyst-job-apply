@@ -23754,6 +23754,66 @@
       "applied_via": "Hirist",
       "resume_sent": true,
       "application_status": "Applied"
+    },
+    {
+      "id": "naukri-epam-systems-senior-business-analyst-regulatory-reporting-061126025972",
+      "company": "EPAM Systems",
+      "role": "Senior Business Analyst - Regulatory Reporting",
+      "location": "Hyderabad/Bengaluru",
+      "work_type": "",
+      "link": "https://www.naukri.com/job-listings-senior-business-analyst-regulatory-reporting-epam-systems-hyderabad-bengaluru-5-to-8-years-061126025972",
+      "status": "Applied",
+      "fit_score": 6,
+      "date_found": "2026-11-15",
+      "date_applied": "2026-11-15",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Senior Business Analyst - Regulatory Reporting in Hyderabad/Bengaluru; SQL, Python and Power BI fit.",
+      "notes": "Applied via Naukri on 2026-11-15 (Claude session).",
+      "cover_note": "",
+      "experience_required": "5-8 yrs",
+      "seniority": "",
+      "employment_type": "Full-time",
+      "industry": "",
+      "applied_via": "Naukri",
+      "resume_sent": true,
+      "application_status": "Applied"
+    },
+    {
+      "id": "naukri-epam-systems-senior-business-analyst-regulatory-reporting-2nd-posting-161026027457",
+      "company": "EPAM Systems",
+      "role": "Senior Business Analyst - Regulatory Reporting (2nd posting)",
+      "location": "Hyderabad/Bengaluru",
+      "work_type": "",
+      "link": "https://www.naukri.com/job-listings-senior-business-analyst-regulatory-reporting-epam-systems-hyderabad-bengaluru-5-to-8-years-161026027457",
+      "status": "Applied",
+      "fit_score": 6,
+      "date_found": "2026-11-15",
+      "date_applied": "2026-11-15",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Senior Business Analyst - Regulatory Reporting (2nd posting) in Hyderabad/Bengaluru; SQL, Python and Power BI fit.",
+      "notes": "Applied via Naukri on 2026-11-15 (Claude session).",
+      "cover_note": "",
+      "experience_required": "5-8 yrs",
+      "seniority": "",
+      "employment_type": "Full-time",
+      "industry": "",
+      "applied_via": "Naukri",
+      "resume_sent": true,
+      "application_status": "Applied"
     }
   ]
 }
