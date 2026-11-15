@@ -24084,6 +24084,36 @@
       "applied_via": "Naukri",
       "resume_sent": true,
       "application_status": "Applied"
+    },
+    {
+      "id": "naukri-capgemini-business-analyst-191026011990",
+      "company": "Capgemini",
+      "role": "Business Analyst",
+      "location": "Hyderabad/Chennai/Mumbai",
+      "work_type": "",
+      "link": "https://www.naukri.com/job-listings-business-analyst-capgemini-hyderabad-chennai-mumbai-all-areas-7-to-12-years-191026011990",
+      "status": "Applied",
+      "fit_score": 6,
+      "date_found": "2026-11-15",
+      "date_applied": "2026-11-15",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Business Analyst in Hyderabad/Chennai/Mumbai; SQL, Python and Power BI fit.",
+      "notes": "Applied via Naukri on 2026-11-15 (Claude session).",
+      "cover_note": "",
+      "experience_required": "7-12 yrs",
+      "seniority": "",
+      "employment_type": "Full-time",
+      "industry": "",
+      "applied_via": "Naukri",
+      "resume_sent": true,
+      "application_status": "Applied"
     }
   ]
 }
