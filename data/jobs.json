@@ -24444,6 +24444,36 @@
       "applied_via": "Hirist",
       "resume_sent": true,
       "application_status": "Applied"
+    },
+    {
+      "id": "hirist-capital-markets-firm-hirist-business-analyst-product-analyst-capital-market-domain-1673067",
+      "company": "Capital Markets firm (Hirist)",
+      "role": "Business Analyst/Product Analyst - Capital Market Domain",
+      "location": "Bengaluru/Hyderabad",
+      "work_type": "",
+      "link": "https://www.hirist.tech/j/1673067",
+      "status": "Applied",
+      "fit_score": 6,
+      "date_found": "2026-11-15",
+      "date_applied": "2026-11-15",
+      "salary": "Not disclosed",
+      "source": "Hirist",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Business Analyst/Product Analyst - Capital Market Domain in Bengaluru/Hyderabad; SQL, Python and Power BI fit.",
+      "notes": "Applied via Hirist on 2026-11-15 (Claude session).",
+      "cover_note": "",
+      "experience_required": "3-5 yrs",
+      "seniority": "",
+      "employment_type": "Full-time",
+      "industry": "",
+      "applied_via": "Hirist",
+      "resume_sent": true,
+      "application_status": "Applied"
     }
   ]
 }
