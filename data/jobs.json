@@ -25164,6 +25164,36 @@
       "applied_via": "Hirist",
       "resume_sent": true,
       "application_status": "Applied"
+    },
+    {
+      "id": "hirist-hirist-employer-senior-power-bi-developer-1682030",
+      "company": "Hirist employer",
+      "role": "Senior Power BI Developer",
+      "location": "Bengaluru/Hyderabad",
+      "work_type": "",
+      "link": "https://www.hirist.tech/j/1682030",
+      "status": "Applied",
+      "fit_score": 6,
+      "date_found": "2026-11-15",
+      "date_applied": "2026-11-15",
+      "salary": "Not disclosed",
+      "source": "Hirist",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Senior Power BI Developer in Bengaluru/Hyderabad; SQL, Python and Power BI fit.",
+      "notes": "Applied via Hirist on 2026-11-15 (Claude session).",
+      "cover_note": "",
+      "experience_required": "7-10 yrs",
+      "seniority": "",
+      "employment_type": "Full-time",
+      "industry": "",
+      "applied_via": "Hirist",
+      "resume_sent": true,
+      "application_status": "Applied"
     }
   ]
 }
