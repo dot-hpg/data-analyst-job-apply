@@ -24414,6 +24414,36 @@
       "applied_via": "Hirist",
       "resume_sent": true,
       "application_status": "Applied"
+    },
+    {
+      "id": "hirist-altezzasys-technical-business-analyst-1678350",
+      "company": "Altezzasys",
+      "role": "Technical Business Analyst",
+      "location": "Multiple Locations",
+      "work_type": "",
+      "link": "https://www.hirist.tech/j/1678350",
+      "status": "Applied",
+      "fit_score": 6,
+      "date_found": "2026-11-15",
+      "date_applied": "2026-11-15",
+      "salary": "Not disclosed",
+      "source": "Hirist",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Technical Business Analyst in Multiple Locations; SQL, Python and Power BI fit.",
+      "notes": "Applied via Hirist on 2026-11-15 (Claude session).",
+      "cover_note": "",
+      "experience_required": "8-15 yrs",
+      "seniority": "",
+      "employment_type": "Full-time",
+      "industry": "",
+      "applied_via": "Hirist",
+      "resume_sent": true,
+      "application_status": "Applied"
     }
   ]
 }
