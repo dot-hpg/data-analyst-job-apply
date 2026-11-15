@@ -24234,6 +24234,36 @@
       "applied_via": "Naukri",
       "resume_sent": true,
       "application_status": "Applied"
+    },
+    {
+      "id": "naukri-shriram-life-insurance-business-analyst-policy-servicing-010726008352",
+      "company": "Shriram Life Insurance",
+      "role": "Business Analyst - Policy Servicing",
+      "location": "Hyderabad",
+      "work_type": "",
+      "link": "https://www.naukri.com/job-listings-business-analyst-policy-servicing-shriram-life-insurance-hyderabad-5-to-8-years-010726008352",
+      "status": "Applied",
+      "fit_score": 6,
+      "date_found": "2026-11-15",
+      "date_applied": "2026-11-15",
+      "salary": "Not disclosed",
+      "source": "Naukri",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Business Analyst - Policy Servicing in Hyderabad; SQL, Python and Power BI fit.",
+      "notes": "Applied via Naukri on 2026-11-15 (Claude session).",
+      "cover_note": "",
+      "experience_required": "5-8 yrs",
+      "seniority": "",
+      "employment_type": "Full-time",
+      "industry": "",
+      "applied_via": "Naukri",
+      "resume_sent": true,
+      "application_status": "Applied"
     }
   ]
 }
