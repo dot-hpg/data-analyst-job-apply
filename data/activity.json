@@ -1999,6 +1999,11 @@
       "date": "2026-11-22",
       "action": "Applied on Cutshort + Wellfound",
       "detail": "2 remote startup applications: Coast Systems (Cutshort) and Raushang4 CRO Specialist (Wellfound). Naukri daily apply quota reached; Instahyre WFH listings all redirect to company sites."
+    },
+    {
+      "date": "2026-11-22",
+      "action": "Applied on Wellfound",
+      "detail": "WebIndiaInc Data Engineer (remote). Wellfound India data list now exhausted; Instahyre Hyderabad listings redirect to company sites."
     }
   ]
 }

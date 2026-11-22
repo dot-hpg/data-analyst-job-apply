@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "id": "wellfound-webindiainc-data-engineer",
+      "company": "WebIndiaInc",
+      "role": "Data Engineer",
+      "location": "Remote only • Everywhere",
+      "work_type": "Remote (Worldwide)",
+      "link": "https://wellfound.com/role/l/data-analyst/india?page=2",
+      "status": "Applied",
+      "fit_score": 68,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "₹8L – ₹12L",
+      "source": "Wellfound",
+      "skills": [
+        "SQL",
+        "Python",
+        "ETL",
+        "Power BI"
+      ],
+      "why_fit": "Performance-marketing agency (51-200); remote; ETL + reporting automation matches your Ivue pipeline work. Asks 3 yrs.",
+      "notes": "Applied via Wellfound on 22 Nov 2026.",
+      "cover_note": ""
+    },
+    {
       "id": "cutshort-coast-systems-digital-mold-data-scientist",
       "company": "Coast Systems LLC",
       "role": "Digital Mold Data Scientist & Manufacturing Analytics Specialist",
