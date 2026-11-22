@@ -29767,6 +29767,42 @@
       "why_fit": "Business Analyst (Bengaluru); SQL, Python and BI reporting fit.",
       "notes": "Applied via Naukri on 2026-11-22 (Claude session). One job in this batch got wrong auto-answers (Redshift/AWS and telecom data experience sent as Yes); correct if asked.",
       "cover_note": ""
+    },
+    {
+      "id": "cutshort-wissen-technology-sql-developer-cs-wissen-sql",
+      "company": "Wissen Technology",
+      "role": "Sql developer",
+      "location": "Mumbai",
+      "work_type": "Onsite",
+      "link": "https://cutshort.io/search-jobs?free_text=Data%20Analyst",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "",
+      "source": "Cutshort",
+      "skills": "SQL, Python, Power BI, Excel",
+      "why_fit": "Sql developer (Mumbai); SQL, Python and BI reporting fit.",
+      "notes": "Applied via Cutshort on 2026-11-22 (Claude session).",
+      "cover_note": ""
+    },
+    {
+      "id": "cutshort-oip-insurtech-senior-business-analyst-cs-oip-sba",
+      "company": "OIP Insurtech",
+      "role": "Senior Business Analyst",
+      "location": "India",
+      "work_type": "Onsite",
+      "link": "https://cutshort.io/search-jobs?free_text=Data%20Analyst",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "",
+      "source": "Cutshort",
+      "skills": "SQL, Python, Power BI, Excel",
+      "why_fit": "Senior Business Analyst (India); SQL, Python and BI reporting fit.",
+      "notes": "Applied via Cutshort on 2026-11-22 (Claude session).",
+      "cover_note": ""
     }
   ]
 }
