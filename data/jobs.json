@@ -1,6 +1,52 @@
 {
   "jobs": [
     {
+      "id": "aspire-senior-data-analyst",
+      "company": "Aspire",
+      "role": "Senior Data Analyst",
+      "location": "Hyderabad / Bengaluru",
+      "work_type": "On-site",
+      "link": "",
+      "status": "Applied",
+      "fit_score": 65,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "",
+      "source": "Foundit",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Data/analytics role matching SQL, Python, Power BI experience.",
+      "notes": "Applied via Foundit on 2026-11-22.",
+      "cover_note": ""
+    },
+    {
+      "id": "thermo-fisher-scientific-data-application-analyst-iii",
+      "company": "Thermo Fisher Scientific",
+      "role": "Data & Application Analyst III",
+      "location": "Hyderabad",
+      "work_type": "On-site",
+      "link": "",
+      "status": "Applied",
+      "fit_score": 70,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "",
+      "source": "Foundit",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Data/analytics role matching SQL, Python, Power BI experience.",
+      "notes": "Applied via Foundit on 2026-11-22.",
+      "cover_note": ""
+    },
+    {
       "id": "akova-fintech-solutions-data-analyst",
       "company": "Akova Fintech Solutions",
       "role": "Data Analyst",
