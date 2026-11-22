@@ -2134,6 +2134,28 @@
       "why_fit": "",
       "notes": "Wellfound quick apply (remote).",
       "cover_note": ""
+    },
+    {
+      "id": "wellfound-tealbox-digital-performance-marketing-analyst-intern",
+      "company": "Tealbox Digital",
+      "role": "Performance Marketing Analyst Intern",
+      "location": "Remote (India) / Gurgaon",
+      "work_type": "Remote",
+      "link": "https://wellfound.com/jobs/3750116-performance-marketing-analyst-intern",
+      "status": "Applied",
+      "fit_score": 50,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "INR 8,000/month",
+      "source": "Wellfound",
+      "skills": [
+        "Data Analysis",
+        "Google Analytics",
+        "Digital Marketing"
+      ],
+      "why_fit": "Early-stage startup, remote; marketing analytics/dashboards",
+      "notes": "Applied via Wellfound with note. Startup.",
+      "cover_note": ""
     }
   ]
 }
