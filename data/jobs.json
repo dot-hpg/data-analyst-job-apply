@@ -1,6 +1,75 @@
 {
   "jobs": [
     {
+      "id": "intraedge-business-analyst-with-payment",
+      "company": "IntraEdge",
+      "role": "Business Analyst with Payment",
+      "location": "Hyderabad (On-site)",
+      "work_type": "On-site",
+      "link": "",
+      "status": "Applied",
+      "fit_score": 60,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "",
+      "source": "LinkedIn",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Data/analytics role matching SQL, Python, Power BI experience.",
+      "notes": "Applied via LinkedIn on 2026-11-22.",
+      "cover_note": ""
+    },
+    {
+      "id": "building-pixels-staffing-performance-marketing-analyst",
+      "company": "Building Pixels Staffing",
+      "role": "Performance Marketing Analyst",
+      "location": "Hyderabad (On-site)",
+      "work_type": "On-site",
+      "link": "",
+      "status": "Applied",
+      "fit_score": 62,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "",
+      "source": "LinkedIn",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Data/analytics role matching SQL, Python, Power BI experience.",
+      "notes": "Applied via LinkedIn on 2026-11-22.",
+      "cover_note": ""
+    },
+    {
+      "id": "scoutit-analyst-procurement",
+      "company": "Scoutit",
+      "role": "Analyst (Procurement)",
+      "location": "Hyderabad (Hybrid)",
+      "work_type": "Hybrid",
+      "link": "",
+      "status": "Applied",
+      "fit_score": 65,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "",
+      "source": "LinkedIn",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+      ],
+      "why_fit": "Data/analytics role matching SQL, Python, Power BI experience.",
+      "notes": "Applied via LinkedIn on 2026-11-22.",
+      "cover_note": ""
+    },
+    {
       "id": "kaygen-inc-reporting-specialist",
       "company": "Kaygen, Inc.",
       "role": "Reporting Specialist",
