@@ -214,6 +214,11 @@
       "date": "2026-11-22",
       "action": "Wellfound remote quick-apply",
       "detail": "Applied to 6 remote startup analyst roles on Wellfound (Nucleus, GETONCRM, Soul Rebel, CloudVandana, Neuralix, Fx31 Labs). US-only listings skipped."
+    },
+    {
+      "date": "2026-11-22",
+      "action": "Synced LinkedIn statuses",
+      "detail": "Signant, PMG (x2) and Precision AQ already applied on LinkedIn; Puffy closed."
     }
   ]
 }
