@@ -1981,6 +1981,51 @@
       "why_fit": "",
       "notes": "Applied via Naukri. Remote.",
       "cover_note": ""
+    },
+    {
+      "id": "wellfound-veloxio-technologies-junior-data-scientist",
+      "company": "Veloxio Technologies",
+      "role": "Junior Data Scientist",
+      "location": "Remote (Everywhere)",
+      "work_type": "Remote",
+      "link": "https://wellfound.com/jobs/4881191-junior-data-scientist",
+      "status": "Applied",
+      "fit_score": 60,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "$60k-$75k",
+      "source": "Wellfound",
+      "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning"
+      ],
+      "why_fit": "Startup (11-50), remote; Python/SQL/ML match",
+      "notes": "Applied via Wellfound with note. Startup.",
+      "cover_note": ""
+    },
+    {
+      "id": "wellfound-eveoai-data-scientist-junior",
+      "company": "EveoAI",
+      "role": "Data Scientist - Junior",
+      "location": "Remote (India)",
+      "work_type": "Remote",
+      "link": "https://wellfound.com/jobs/2876154-data-scientist-junior-role-3",
+      "status": "Applied",
+      "fit_score": 55,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "INR 10k-35k",
+      "source": "Wellfound",
+      "skills": [
+        "Python",
+        "Data Mining",
+        "Machine Learning",
+        "Data Analysis"
+      ],
+      "why_fit": "Early-stage GenAI startup, remote; data cleaning/EDA match",
+      "notes": "Applied via Wellfound with note. Startup.",
+      "cover_note": ""
     }
   ]
 }
