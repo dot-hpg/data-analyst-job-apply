@@ -1,6 +1,53 @@
 {
   "jobs": [
     {
+      "id": "cutshort-coast-systems-digital-mold-data-scientist",
+      "company": "Coast Systems LLC",
+      "role": "Digital Mold Data Scientist & Manufacturing Analytics Specialist",
+      "location": "Remote only (India)",
+      "work_type": "Remote (India)",
+      "link": "https://cutshort.io/profile/all-jobs?remoteType=remote_only&tags=data_analytics",
+      "status": "Applied",
+      "fit_score": 72,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "₹10L – ₹15L / yr",
+      "source": "Cutshort",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Tableau",
+        "Data validation",
+        "KPI reporting"
+      ],
+      "why_fit": "Data cleansing, validation and KPI dashboards from multi-source data; posting says fewer than 4 yrs considered.",
+      "notes": "Applied via Cutshort on 22 Nov 2026 with a short note to recruiter Aprajita Pundhir. Asks 4–8 yrs.",
+      "cover_note": ""
+    },
+    {
+      "id": "wellfound-raushang4-cro-specialist",
+      "company": "Raushang4 Technology",
+      "role": "CRO Specialist",
+      "location": "Remote only • India",
+      "work_type": "Remote (India)",
+      "link": "https://wellfound.com/company/raushang4-technology/jobs",
+      "status": "Applied",
+      "fit_score": 65,
+      "date_found": "2026-11-22",
+      "date_applied": "2026-11-22",
+      "salary": "",
+      "source": "Wellfound",
+      "skills": [
+        "Funnel analysis",
+        "A/B testing",
+        "Analytics"
+      ],
+      "why_fit": "Funnel audits and A/B test design use your hypothesis-testing and funnel/cohort skills; 1–10 person D2C startup, remote India.",
+      "notes": "Applied via Wellfound on 22 Nov 2026.",
+      "cover_note": ""
+    },
+    {
       "id": "aspire-senior-data-analyst",
       "company": "Aspire",
       "role": "Senior Data Analyst",
