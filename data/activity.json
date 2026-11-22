@@ -219,6 +219,11 @@
       "date": "2026-11-22",
       "action": "Synced LinkedIn statuses",
       "detail": "Signant, PMG (x2) and Precision AQ already applied on LinkedIn; Puffy closed."
+    },
+    {
+      "date": "2026-11-22",
+      "action": "Checked more platforms",
+      "detail": "LinkedIn Easy Apply daily limit reached; Naukri remote DA listings all 'apply on company site' and bulk-apply returned an error (likely daily limit); Foundit had 1 remote/quick-apply match; Cutshort and Instahyre remote analyst pools exhausted."
     }
   ]
 }
